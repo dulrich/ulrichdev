@@ -1,0 +1,22 @@
+{
+	"name": "basic-express-webserver",
+	"version": "0.0.1",
+	"author": "David Ulrich <david@ulrichdev.com>",
+	"description": "A basic express/markdown webserver in coffeescript.",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/dulrich/sloppy.git"
+	},
+	"keywords": [
+		"webserver",
+		"markdown",
+		"coffeescript"
+	],
+	"dependencies" : {
+		"express": "~4.7.0",
+		"lodash": "~2.4.0",
+		"marked": "~0.3.2",
+		"toffee": "~0.1.12"
+	},
+	"license": "MIT"
+}
