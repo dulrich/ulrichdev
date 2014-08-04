@@ -1,0 +1,137 @@
+/*------------------------------------*\
+    RESET
+\*------------------------------------*/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+    v2.0b1 | 201101 
+    NOTE:WORK IN PROGRESS
+    USE WITH CAUTION AND TEST WITH ABANDON */
+
+html,body,div,span,applet,object,iframe,
+h1,h2,h3,h4,h5,h6,p,blockquote,pre,
+a,abbr,acronym,address,big,cite,code,
+del,dfn,em,img,ins,kbd,q,s,samp,
+small,strike,strong,sub,sup,tt,var,
+b,u,i,center,
+dl,dt,dd,ol,ul,li,
+fieldset,form,label,legend,
+table,caption,tbody,tfoot,thead,tr,th,td,
+article,aside,canvas,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section,summary,
+time,mark,audio,video{
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    font:inherit;
+    vertical-align:baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section{
+    display:block;
+}
+body{
+    line-height:1;
+}
+ol,ul{
+    list-style:none;
+}
+blockquote,q{
+    quotes:none;
+}
+blockquote:before,blockquote:after,
+q:before,q:after{
+    content:’’;
+    content:none;
+}
+/* remember to define visible focus styles! 
+:focus{
+    outline:?????;
+} */
+
+/* remember to highlight inserts somehow! */
+ins{
+    text-decoration:none;
+}
+del{
+    text-decoration:line-through;
+}
+
+table{
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+
+
+
+
+/*------------------------------------*\
+    UlrichDev Styles
+\*------------------------------------*/
+/* do we really need styles? */
+.body-wrapper {
+	max-width: 1024px;
+	margin: 0 auto;
+	padding: 0 3em;
+}
+
+.center {
+	text-align: center;
+}
+
+.content {
+	min-height: 500px;
+}
+
+.header {
+	padding-top: 1em;
+}
+
+.menu-list {
+	margin: auto;
+}
+
+.menu-list li {
+	display: inline-block;
+	margin: 1em 2em 0 2em;
+}
+
+.quiet {
+	color: #ccc;
+}
+
+.section {
+	margin-top: 1em;
+	border-top: 1px solid #ccc;
+}
+
+h1,h2,h3 {
+	font-weight: bold;
+	margin: 1em 0;
+}
+
+h1 {
+	font-size: 175%;
+}
+
+h2 {
+	font-size: 150%;
+}
+
+h3 {
+	font-size: 125%;
+}
+
+p {
+	margin: 0.5em 0;
+}
+
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
