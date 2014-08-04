@@ -1,7 +1,9 @@
 exp = require 'express'
 app = exp()
+B   = require 'bluebird'
 cns = require 'consolidate'
 fs  = require 'fs'
+fs.readFileB = B.promisify fs.readFile
 hmz = require 'humanize-plus'
 mkd = require 'marked'
 pth = require 'path'
@@ -15,15 +17,21 @@ cfg = {
 
 log = console.log
 
-get_markdown = (page,cb) ->
-	fs.readFile pth.join('content', "#{page}.md"), (err,file) ->
-		if err then return cb err, ''
-		
-		cb null, mkd file.toString 'utf8'
+get_markdown = (page) ->
+	fs.readFileB pth.join('content', "#{page}.md")
+	  .then (file) -> mkd file.toString 'utf8'
 
 make_title = (page) ->
 	title = hmz.titleCase page
 	"UlrichDev | #{title}"
+
+render_page = (res,body,page) ->
+	res.render 'scaffold', {
+		content: body,
+		page: page,
+		title: make_title page
+	}
+
 
 not_found_404 = "<p>We could not find the page you asked for. It may not exist anymore, or you may just be wrong. If there are enough requests we might (re)create it.</p>"
 
@@ -41,14 +49,9 @@ app.use '/static', exp.static pth.join __dirname, 'static'
 app.use '/(:page)?', (req,res) ->
 	page = req.params.page ? 'home'
 	
-	get_markdown page, (err,body) ->
-		if err then body = not_found_404
-		
-		res.render 'scaffold', {
-			content: body,
-			page: page,
-			title: make_title page
-		}
+	get_markdown page
+		.then (body) -> render_page res, body, page
+		.catch (err) -> render_page res, not_found_404, page
 
 app.listen cfg.port, () ->
 	log "Webserver started [express, port #{cfg.port}]"
