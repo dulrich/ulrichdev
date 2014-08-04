@@ -22,7 +22,6 @@ get_markdown = (page,cb) ->
 		cb null, mkd file.toString 'utf8'
 
 make_title = (page) ->
-	log page
 	title = hmz.titleCase page
 	"UlrichDev | #{title}"
 
@@ -40,8 +39,6 @@ app.use '/static', exp.static pth.join __dirname, 'static'
 
 # app.use '/content', page_renderer (toffee, requested bit in middle)
 app.use '/(:page)?', (req,res) ->
-	log "hit page handler"
-	
 	page = req.params.page ? 'home'
 	
 	get_markdown page, (err,body) ->

@@ -57,5 +57,18 @@ Contains links to many other sets of koans; many, but not all of those are also 
 
 ## Programming, Technical ##
 
+The best references for the best technologies.
 
+[Coffee Script](http://coffeescript.org/): **Compiles to JS, for programmers too lazy to type ; and {.**
+
+[Node.js](http://nodejs.org/): **_The_ way to build modern web apps.**
+
+## Services ##
+
+Providers that I use and recommend.
+
+* [Digital Ocean](https://www.digitalocean.com/): **Simple cloud hosting, built for developers.**
+
+* [namecheap](https://www.namecheap.com/): **Getting your site online is easier than you think.**
+Best domain name registrar. Opposed SOPA and PIPA from the beginning.
 
