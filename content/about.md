@@ -1,6 +1,6 @@
 # David Ulrich - Software Engineer (and some other things) #
 
-When I'm not ~~banging my head on the desk~~ writing code for pleasure or profit, you will likely find me drinking loose leaf tea, cooking delicious vegetarian meals, biking, or swimming in the lake.
+When I'm not ~~banging my head on the desk~~ writing code for pleasure or profit, you will likely find me drinking loose leaf tea, cooking delicious plant-based meals, biking, or swimming in the lake.
 
 My programming interests include function programming, relational programming, and DSLs.
 

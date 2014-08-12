@@ -4,6 +4,7 @@ B   = require 'bluebird'
 cns = require 'consolidate'
 fs  = require 'fs'
 fs.readFileB = B.promisify fs.readFile
+hlt = require 'highlight.js'
 hmz = require 'humanize-plus'
 mkd = require 'marked'
 pth = require 'path'
@@ -13,6 +14,9 @@ cfg = {
 	port: 4747
 }
 
+mkd.setOptions {
+	highlight: (code) -> hlt.highlightAuto(code).value
+}
 
 
 log = console.log

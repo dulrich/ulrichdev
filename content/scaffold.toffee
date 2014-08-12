@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<title>#{title}</title>
 	<link rel="stylesheet" href="/static/style.css">
+	<link rel="stylesheet" href="/static/highlight.js.dark.css">
 	<!--[if IE]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
@@ -13,7 +14,7 @@
 	<div class="body-wrapper">
 		<div class="header">
 			<ul class="menu-list">
-				<li><h2>Ulrich<span class="quiet">Dev</span></h2></li>
+				<li><h6>Ulrich<span class="quiet">Dev</span></h6></li>
 				<li><a href="/">Home</a></li>
 				<li><a href="/about">About</a></li>
 				<li><a href="/projects">Projects</a></li>

@@ -5,7 +5,7 @@ A collection of brilliant insights into issues of technology, philosophy, and th
 
 ## 2014-08-11 -- Setting Up Tab-Completion for Bash Aliases in Ubuntu 14.04LTS ##
 
-Some guides have a function that automatically finds aliases, and sets maps them to the completion handlers of the programs they alias[1].
+Some guides have a function that automatically finds aliases, and sets maps them to the completion handlers of the programs they alias ([gist](https://gist.github.com/ckorn/4999102)).
 This sometimes works, for example if your aliases are just simple shortcuts:
 ```bash
 alias a="git add"
@@ -31,7 +31,6 @@ if [ -f /usr/share/bash-completion/completions/git ]; then
 	__git_complete d _git_diff
 fi
 ```
-[1](https://gist.github.com/ckorn/4999102)
 
 
 ## 2014-08-04 -- Site is Online, Now All it Needs is Everything ##

@@ -71,10 +71,36 @@ table{
     UlrichDev Styles
 \*------------------------------------*/
 /* do we really need styles? */
+a {
+	color: #0ff
+}
+a:visited {
+	color: #f0f;
+}
+
+body {
+	background-color: #666;
+	color: #aaa;
+	font-family: courier-new,monospace
+}
+
+code,pre {
+	background-color: #006;
+}
+
+code {
+	display: inline-block;
+}
+
+pre {
+	padding: 0.5em;
+}
+
 .body-wrapper {
+	background-color: #000;
 	max-width: 1024px;
 	margin: 0 auto;
-	padding: 0 3em;
+	padding: 0 3em 1em 3em;
 }
 
 .center {
@@ -107,21 +133,30 @@ table{
 	border-top: 1px solid #ccc;
 }
 
-h1,h2,h3 {
+h1,h2,h3,h4,h5,h6 {
+	color: #ccc;
 	font-weight: bold;
 	margin: 1em 0;
 }
 
 h1 {
-	font-size: 175%;
+	font-size: 125%;
 }
 
 h2 {
-	font-size: 150%;
+	border-top: 1px solid #ccc;
+	font-size: 125%;
+	padding-top: 0.5em;
 }
 
-h3 {
-	font-size: 125%;
+h3,h4,h5 {
+/* 	font-size: 100%; */
+}
+
+h6 {
+	color: white;
+	font-size: 200%;
+	margin: 0.5em 0;
 }
 
 ol,ul {
@@ -129,11 +164,13 @@ ol,ul {
 }
 
 ol>li,ul>li {
+	line-height: 1.25em;
 	margin-left: 1em;
 }
 
 p {
-	margin: 0.5em 0;
+	line-height: 1.25em;
+	margin: 1.0em 0;
 }
 
 em {
