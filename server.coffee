@@ -8,14 +8,19 @@ hlt = require 'highlight.js'
 hmz = require 'humanize-plus'
 mkd = require 'marked'
 pth = require 'path'
+rdr = new mkd.Renderer
 tof = require 'toffee'
 
 cfg = {
 	port: 4747
 }
 
+rdr.heading = (text,level) ->
+	return "<h#{level}>&gt; #{text}</h#{level}>"
+
 mkd.setOptions {
 	highlight: (code) -> hlt.highlightAuto(code).value
+	renderer: rdr
 }
 
 
