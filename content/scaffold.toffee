@@ -16,12 +16,20 @@
 			<ul class="menu-list">
 				<li><h6>Ulrich<span class="quiet">Dev</span></h6></li>
 				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
+				<li><a href="/archive">Archive</a></li>
 				<li><a href="/projects">Projects</a></li>
+				<li><a href="/about">About</a></li>
 				<li><a href="/links">Links</a></li>
 			</ul>
 		</div>
-		<div class="section content">#{print content}</div>
+		<div class="section content">
+			#{print content}
+			{#
+				switch blog
+					when "list" then print partial "blog_list.toffee"
+					when "roll" then print partial "blog_roll.toffee" 
+			#}
+		</div>
 		<div class="section footer">
 			<p class="center">&copy; 2014, David Ulrich -- view <a href="https://github.com/dulrich/ulrichdev">source</a> on github.</p>
 		</div>

@@ -96,6 +96,10 @@ pre {
 	padding: 0.5em;
 }
 
+div.blog-roll {
+	border-top: 1px solid #ccc;
+}
+
 .body-wrapper {
 	background-color: #000;
 	max-width: 1024px;
