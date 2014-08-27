@@ -20,11 +20,17 @@ cfg = {
 rdr.heading = (text,level) ->
 	return "<h#{level}>&gt; #{text}</h#{level}>"
 
-mkd.setOptions {
+mkd_opt = {
+	breaks: false
+	gfm: true
 	highlight: (code) -> hlt.highlightAuto(code).value
+	pedantic: false
 	renderer: rdr
+	sanitize: true
+	smartLists: true
+	smartypants: false
+	tables: true
 }
-
 
 log = console.log
 
@@ -45,7 +51,7 @@ blog_load = (load) ->
 			
 			fs.readFileB pth.join 'content', file[0]
 			.then (content) ->
-				out.content = mkd content.toString 'utf8'
+				out.content = mkd content.toString('utf8'), mkd_opt
 				out
 		.then (blogs) ->
 			_(blogs).sortBy (blog) ->
@@ -63,7 +69,7 @@ blog_posts = (start,count) ->
 
 get_markdown = (page) ->
 	fs.readFileB pth.join 'content', "#{page}.md"
-		.then (file) -> mkd file.toString 'utf8'
+		.then (file) -> mkd file.toString('utf8'), mkd_opt
 
 make_title = (page) ->
 	title = hmz.titleCase page
