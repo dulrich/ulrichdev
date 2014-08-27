@@ -1,5 +1,8 @@
 # 2014-08-27 -- Marked: Relying on setOptions() is Dangerous #
 
+Well, not necessarily dangerous.
+But as your project grows you may be left scratching your head.
+
 If you've rendered markdown in nodejs, you probably used marked. 
 It's great, and quite easy to use.
 But, due to a combination of how the module is setup and how nodejs `require`s modules, `marked.setOptions([...})` may not do what you expect.
