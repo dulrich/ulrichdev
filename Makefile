@@ -17,6 +17,9 @@ all: $(build_files)
 clean:
 	rm -rf *.js
 
+dev:
+	nodemon -e '.coffee' -x 'bash' server.sh
+
 forever:
 	./start-restart.sh
 
