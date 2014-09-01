@@ -7,7 +7,7 @@ SHELL := /bin/bash
 source_files    := $(wildcard *.coffee)
 build_files     := $(source_files:%.coffee=%.js)
 
-.PHONY: all clean forever prod
+.PHONY: all clean dev forever prod
 
 all: $(build_files)
 
@@ -15,7 +15,7 @@ all: $(build_files)
 	coffee -co $(dir $@) $<
 
 clean:
-	rm -rf *.js
+	rm -f *.js
 
 dev:
 	nodemon -e '.coffee' -x 'bash' server.sh
