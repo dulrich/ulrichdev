@@ -86,6 +86,7 @@ blog_posts = (start,count) ->
 	blog_load(true).then (blogs) ->
 		_(blogs).sortBy (blog) ->
 			parseInt blog.date.replace(/-/g,''), 10
+		.reverse()
 		.slice start, count
 		.valueOf()
 
