@@ -65,7 +65,7 @@ blog_load = (load) ->
 		.map (file) ->
 			out = {
 				date: file[1]
-				title: hmz.titleCase file[2].replace '-', ' '
+				title: hmz.titleCase file[2].replace /-/g, ' '
 				path: [file[1],file[2]].join('-')
 			}
 			
@@ -77,7 +77,7 @@ blog_load = (load) ->
 				out
 		.then (blogs) ->
 			_(blogs).sortBy (blog) ->
-				parseInt blog.date.replace('-',''), 10
+				parseInt blog.date.replace(/-/g,''), 10
 			.reverse()
 			.valueOf()
 		.catch (err) -> []
@@ -85,7 +85,7 @@ blog_load = (load) ->
 blog_posts = (start,count) ->
 	blog_load(true).then (blogs) ->
 		_(blogs).sortBy (blog) ->
-			parseInt blog.date.replace('-',''), 10
+			parseInt blog.date.replace(/-/g,''), 10
 		.slice start, count
 		.valueOf()
 
