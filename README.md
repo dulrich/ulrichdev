@@ -1,6 +1,7 @@
 # Minimal Coffeescript Server #
 
 This server exists to power my personal website.
+It can be seen online at (ulrichdev.com)[http://www.ulrichdev.com].
 Secondary purposes include experimenting wtih Coffeescript, promises, and other modules.
 
 Installation is the standard `npm install`.
@@ -25,3 +26,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Markdown content is additionaly licensed as CC0.
 Though what anyone would want with my rubbish blog posts is unclear.
+
+Content pages may link to images that are not in the repo.
+These images are not part of the project and all rights to them are reserved.
