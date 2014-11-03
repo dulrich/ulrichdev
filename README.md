@@ -1,7 +1,7 @@
 # Minimal Coffeescript Server #
 
 This server exists to power my personal website.
-It can be seen online at (ulrichdev.com)[http://www.ulrichdev.com].
+It can be seen online at (http://www.ulrichdev.com).
 Secondary purposes include experimenting wtih Coffeescript, promises, and other modules.
 
 Installation is the standard `npm install`.
