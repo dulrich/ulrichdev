@@ -3,6 +3,13 @@
 Categories alphabetized, because I'm like that.
 
 
+## DIY ##
+
+Interesting projects, both high- and low-tech.
+
+* [Solar Regfrigeration](http://www.free-energy-info.com/P13.pdf) **Not a contradiction**
+
+
 ## Linux ##
 
 The One True Operating System, you must convert. Unless you're a BSD fanatic, that's cool too (weird, but cool nonetheless).
