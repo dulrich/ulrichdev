@@ -7,7 +7,11 @@ Categories alphabetized, because I'm like that.
 
 Interesting projects, both high- and low-tech.
 
+* [Passive Air Conditioning](http://mb-soft.com/solar/saving.html) **AKA Ground-coupled heat exchangers**
+In most North-American climates, the soil temperature is low enough to provide cooling.
+This is why your basement stays colder than the rest of the house.
 * [Solar Regfrigeration](http://www.free-energy-info.com/P13.pdf) **Not a contradiction**
+Ammonia evaporative cooling.
 
 
 ## Linux ##
