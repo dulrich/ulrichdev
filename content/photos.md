@@ -11,6 +11,16 @@ Grouped by Subject
 * [mud nests](/static/img/mud-nests.jpg) - no idea what builds these, they were attached to the bottom of the rock when I flipped it
 * [turtle](/static/img/turtle.jpg) - probably an [eastern spiny softshell turtle](http://en.wikipedia.org/wiki/Spiny_softshell_turtle)
 
+## David Ulrich ##
+
+Even the author is organized alphabetically.
+
+* [mountain goat](/static/img/self-goat-totem.jpg) - posing as my animal totem, the mountain goat
+
+## Indoors ##
+
+* [houseplants](/static/img/well-travelled-plants.jpg) - these are some well-travelled houseplants, with over 2000 miles under their stems
+
 ## Landscapes ##
 
 * [J Percy Priest Lake](/static/img/swimming-cove.jpg) - looking north from where we usually go swimming
@@ -23,8 +33,20 @@ Grouped by Subject
 
 ## Mr. Tobes ##
 
+He may only be my sister's tiny kitty, but he gets into all kinds of shenanigans.
+
 * [drugs work](/static/img/catnip-works.jpg) - an inflammatory description of catnip
 * [deck cat](/static/img/deck-cat.jpg) - the rare and beautiful Tennessee Deck Cat
+
+## Plants ##
+
+* [wild berries](/static/img/wild-berries.jpg) - growing underneath the back deck
+
+## The Big Trip ##
+
+Selected scenes from the cross-country trek.
+
+* [stormy travels](/static/img/stormy-travels-hd.jpg) - The sky continued to look threatening in Indiana
 
 ## Vegetation ##
 
