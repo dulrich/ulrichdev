@@ -31,6 +31,11 @@ Even the author is organized alphabetically.
 * [July 27, part 2](/static/img/july-27-lightning-2.jpg) - trying to capture a dramatic storm, part 2
 * [July 27, part 3](/static/img/july-27-lightning-3.jpg) - trying to capture a dramatic storm, part 3
 
+## Moon ##
+
+* [backlit clouds](/static/img/moon-clouds.jpg) - the photo doesn't truly capture the moon backlighting an entire sky full of clouds
+* [moonlit tree](/static/img/cloud-moon.jpg) - a shadowy autumn tree provides perspective
+
 ## Mr. Tobes ##
 
 He may only be my sister's tiny kitty, but he gets into all kinds of shenanigans.
