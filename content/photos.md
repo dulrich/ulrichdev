@@ -44,7 +44,28 @@ He may only be my sister's tiny kitty, but he gets into all kinds of shenanigans
 
 ## The Big Trip ##
 
-Selected scenes from the cross-country trek.
+Selected scenes from the cross-country trek, not quite in chronolgical order.
+
+### Washington ###
+
+* [fence & sky](/static/img/wa-fence-sky.jpg) - between Moses Lake and Spokane
+
+### Montana ###
+
+* [big sky country](/static/img/montana-big-sky-country.jpg) - the sky was wide open
+* [dramatic clouds](/static/img/montana-clouds.jpg) - and often filled with dramatic clouds
+* [lonely roads](/static/img/montana-lonely-roads.jpg) - sometimes traffic was sparse
+* [striking rocks](/static/img/montana-rocks-1.jpg) - there were exposed rocks, in various colors
+* [stormy mountains](/static/img/montana-storm-clouds.jpg) - it looked cold and snowy up in the mountains
+* [trucker country](/static/img/montana-trucker-country.jpg) - lots of trucks moving goods across the nation
+
+### Wyoming ###
+
+* [they're everywhere](/static/img/.jpg) - wait for the new Albert Hitchcock movie, "The Motorcycles"
+* [orange signs](/static/img/wyoming-orange-signs.jpg) - May is definitely construction time in the mountain west
+* [wild hills](/static/img/wyoming-wild-hills.jpg) - the whole country has not been built up just yet
+
+### Indiana ###
 
 * [stormy travels](/static/img/stormy-travels-hd.jpg) - The sky continued to look threatening in Indiana
 
