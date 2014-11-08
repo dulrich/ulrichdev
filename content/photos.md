@@ -61,7 +61,7 @@ Selected scenes from the cross-country trek, not quite in chronolgical order.
 
 ### Wyoming ###
 
-* [they're everywhere](/static/img/.jpg) - wait for the new Albert Hitchcock movie, "The Motorcycles"
+* [they're everywhere](/static/img/wyoming-motorcycles-everywhere.jpg) - wait for the new Albert Hitchcock movie, "The Motorcycles"
 * [orange signs](/static/img/wyoming-orange-signs.jpg) - May is definitely construction time in the mountain west
 * [wild hills](/static/img/wyoming-wild-hills.jpg) - the whole country has not been built up just yet
 
