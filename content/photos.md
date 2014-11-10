@@ -21,9 +21,14 @@ Even the author is organized alphabetically.
 
 * [houseplants](/static/img/well-travelled-plants.jpg) - these are some well-travelled houseplants, with over 2000 miles under their stems
 
-## Landscapes ##
+## Lakescapes ##
 
-* [J Percy Priest Lake](/static/img/swimming-cove.jpg) - looking north from where we usually go swimming
+J Percy Priest Lake offers many recreation opportunities, including swimming, strolls in the woods, and photo ops.
+
+* [reeds, closeup](/static/img/lake-reeds-1.jpg) - the reeds at the edge of the water have turned golden with the cooler weather
+* [flaming orange](/static/img/lake-reeds-2.jpg) - late afternoon sun lends a burnished tone to the meadow
+* [sunset](/static/img/sunset-over-percy-priest.jpg) - looking west from the swimming spot; be safe, don't look at the sun!
+* [swimmer's view to the north](/static/img/swimming-cove.jpg) - looking north from the swimming spot
 
 ## Lightning ##
 
