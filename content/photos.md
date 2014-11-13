@@ -19,6 +19,7 @@ Even the author is organized alphabetically.
 
 ## Indoors ##
 
+* [candle depths](/static/img/candle-depths.jpg) - a column of molten wax formed around the wick, creating a visual gradient
 * [houseplants](/static/img/well-travelled-plants.jpg) - these are some well-travelled houseplants, with over 2000 miles under their stems
 * [sourdough bread](/static/img/sourdough-loaf-1.jpg) - the first loaf to come out of my homegrown sourdough starter experiment
 
