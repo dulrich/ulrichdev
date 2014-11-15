@@ -8,7 +8,7 @@ Grouped by Subject
 * [box turtle](/static/img/box-turtle.jpg) - looks like some kind of box turtle
 * [mantis](/static/img/mantis.jpg) - technically a [Carolina mantis](http://en.wikipedia.org/wiki/Carolina_mantis)
 * [mantis](/static/img/mantis-green.jpg) - another mantis
-* [mud nests](/static/img/mud-nests.jpg) - no idea what builds these, they were attached to the bottom of the rock when I flipped it
+* [mud nests](/static/img/mud-nests.jpg) - possibly the nest of [auplopus spider wasps](http://bugeric.blogspot.com/2014/05/masters-of-mud-auplopus-spider-wasps.html), or a related wasp
 * [turtle](/static/img/turtle.jpg) - probably an [eastern spiny softshell turtle](http://en.wikipedia.org/wiki/Spiny_softshell_turtle)
 
 ## David Ulrich ##
@@ -27,6 +27,9 @@ Even the author is organized alphabetically.
 
 J Percy Priest Lake offers many recreation opportunities, including swimming, strolls in the woods, and photo ops.
 
+* [golden glow](/static/img/criminal-sunset-filter-1.jpg) - the burnished end to a crisp fall day
+* [reflecting](/static/img/criminal-sunset-filter-2.jpg) - sunset is the time for reflecting on the day
+* [contrast](/static/img/criminal-sunset-filter-3.jpg) - as the lake recedes to its winter pool, the sun likewise sinks into the west
 * [reeds, closeup](/static/img/lake-reeds-1.jpg) - the reeds at the edge of the water have turned golden with the cooler weather
 * [flaming orange](/static/img/lake-reeds-2.jpg) - late afternoon sun lends a burnished tone to the meadow
 * [sunset](/static/img/sunset-over-percy-priest.jpg) - looking west from the swimming spot; be safe, don't look at the sun!
