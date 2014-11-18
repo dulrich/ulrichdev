@@ -21,11 +21,11 @@ Even the author is organized alphabetically.
 
 Commonly called [ice flowers](http://my.ilstu.edu/~jrcarter/ice/flowers/), these structures form under certain conditions around plant stems.
 
-* [](/static/img/ice-flower-field.jpg) - a frosty morning in the meadow, something new was about
-* [](/static/img/ice-flower-group.jpg) - they flowed across the landscape in groups, following patterns unseen
-* [](/static/img/ice-flower-top-view.jpg) - from the right angle it could be a flower
-* [](/static/img/ice-flower-extravagant.jpg) - some were small, others large and elegant
-* [](/static/img/ice-flower-sunbeam.jpg) - a fleeting moment in the sun
+* [frosty meadow](/static/img/ice-flower-field.jpg) - a frosty morning in the meadow, something new was about
+* [hidden patterns](/static/img/ice-flower-group.jpg) - they flowed across the landscape in groups, following patterns unseen
+* [flowers?](/static/img/ice-flower-top-view.jpg) - from the right angle it could be a flower
+* [icy beauty](/static/img/ice-flower-extravagant.jpg) - some were small, others large and elegant
+* [transience](/static/img/ice-flower-sunbeam.jpg) - a fleeting moment in the sun
 
 ## Indoors ##
 
