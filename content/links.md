@@ -25,6 +25,7 @@ It does what you want most of the time, with proper [configuration](https://gith
 The ultimate window manager, always does *the right thing&trade;*.
 Requires haskell runtimes, which is not always justifiable.
 
+
 ## Minimalism ##
 
 While the 100-thing-challenge and other such extreme approaches are mostly a novelty, most of us can benefit from being more thoughtful about what we buy and own.
@@ -37,9 +38,8 @@ While I still live in a massive conventional house, these are still fun to brows
 Space constraints drive design in the real world too, not just in software.
 * [Zen Habits](http://zenhabits.net/start/): Leo's style, focues, and outlook evolve over the huge archives.
 
+
 ## Plants ##
-
-
 
 * [Vanderbilt Tree Guide](http://bioimages.vanderbilt.edu/tree-key/index.htm): **Illustrated key to common trees of middle Tennessee**
 This guide is very useful in differentiating the numerous species of oak and hickory that grow in middle Tennessee.
@@ -48,6 +48,7 @@ Poison oak has a look-alike in the Eastern US, fragrant sumac [Rhus Armomatica](
 In the West, [Rhus Trilobata](http://plants.usda.gov/core/profile?symbol=RHTR) also has three leaves, but neither of these sumacs causes contact dermatitis.
 * [Victory Seeds](http://www.victoryseeds.com/): **Rare, Open-pollinated & Heirloom Garden Seeds**
 Located in Oregon's Willamette Valley.
+
 
 ## Programming, Philosophical ##
 
@@ -58,6 +59,7 @@ To program without contemplation is to journey through a vibrant rainforest, yet
 * [Rootless Root](http://catb.org/esr/writings/unix-koans/introduction.html): **The UNIX Koans of Master Foo.**
 Contains links to many other sets of koans; many, but not all of those are also recommended.
 
+
 ## Programming, Technical ##
 
 The best references for the best technologies.
@@ -65,10 +67,13 @@ The best references for the best technologies.
 * [Coffee Script](http://coffeescript.org/): **Compiles to JS, for programmers too lazy to type ; and {.**
 * [Node.js](http://nodejs.org/): **_The_ way to build modern web apps.**
 
+
 ## Services ##
 
 Providers that I use and recommend.
 
+* [Azure Standard](https://www.azurestandard.com/): **Bulk and Organic Food Delivery**
+Monthly delivery of bulk and organic foods at very competetive prices.
 * [Digital Ocean](https://www.digitalocean.com/): **Simple cloud hosting, built for developers.**
 * [namecheap](https://www.namecheap.com/): **Getting your site online is easier than you think.**
 Best domain name registrar. Opposed SOPA and PIPA from the beginning.
