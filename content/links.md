@@ -78,3 +78,13 @@ Monthly delivery of bulk and organic foods at very competetive prices.
 * [namecheap](https://www.namecheap.com/): **Getting your site online is easier than you think.**
 Best domain name registrar. Opposed SOPA and PIPA from the beginning.
 
+
+## Webcomics ##
+
+Because they're funny.
+
+* [Dilbert](http://www.dilbert.com): **The official website with color comic strips, animation, mashups, and more!**
+Just like real life; comes by email too.
+* [xkcd](http://www.xkcd.com): **A webcomic of romance, sarcasm, math, and language.**
+And all programmers must link to it.
+
