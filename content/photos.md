@@ -60,8 +60,9 @@ J Percy Priest Lake offers many recreation opportunities, including swimming, st
 
 He may only be my sister's tiny kitty, but he gets into all kinds of shenanigans.
 
-* [drugs work](/static/img/catnip-works.jpg) - an inflammatory description of catnip
+* [big fish](/static/img/little-kitty-big-fish.jpg) - for some reason this was very interesting
 * [deck cat](/static/img/deck-cat.jpg) - the rare and beautiful Tennessee Deck Cat
+* [drugs work](/static/img/catnip-works.jpg) - an inflammatory description of catnip
 
 ## Plants ##
 
