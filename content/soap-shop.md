@@ -15,10 +15,17 @@ Look for them in your pantry or online at [Bulk Apothecary](http://www.bulkapoth
 
 ## Lotion Bars / Lip Balm ##
 
-Ratios, by weight:
+Basic bar: ratios by weight:
 
 * 4 parts beeswax
 * 5 parts coconut oil
+* 5 parts shea butter
+
+Butter Bar: a smooth, healing bar:
+
+* 4 parts beeswax
+* 1 part jojoba oil
+* 5 parts cocoa butter
 * 5 parts shea butter
 
 ** For lip balm, I prefer standard screw-up  [tubes](http://www.bulkapothecary.com/make-it/lip-balm/lip-balm-containers/empty-lip-balm-tubes.html). You will want a small funnel for filling.
