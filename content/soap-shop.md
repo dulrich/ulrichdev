@@ -25,6 +25,7 @@ Butter Bar: a smooth, healing bar:
 
 * 4 parts beeswax
 * 1 part jojoba oil
+* optional, 1 part almond oil for vitamin E
 * 5 parts cocoa butter
 * 5 parts shea butter
 
