@@ -15,13 +15,16 @@ Look for them in your pantry or online at [Bulk Apothecary](http://www.bulkapoth
 
 ## Lotion Bars / Lip Balm ##
 
-Basic bar: ratios by weight:
+Basic bar: ratios by weight.
+A little bit bland by itself, this recipe works well with a few drops of essential oil per bar.
 
 * 4 parts beeswax
 * 5 parts coconut oil
 * 5 parts shea butter
 
-Butter Bar: a smooth, healing bar:
+Butter Bar: a smooth, healing bar.
+This recipe melts easily due to the liquid oils, and makes a very nice lip balm.
+Lip balm screw-up tubes take around 5g of lotion, so I pour the bars I'm making, then the tubes and finally top off the bars.
 
 * 4 parts beeswax
 * 1 part jojoba oil
