@@ -11,11 +11,13 @@ Grouped by Subject
 * [mud nests](/static/img/mud-nests.jpg) - possibly the nest of [auplopus spider wasps](http://bugeric.blogspot.com/2014/05/masters-of-mud-auplopus-spider-wasps.html), or a related wasp
 * [turtle](/static/img/turtle.jpg) - probably an [eastern spiny softshell turtle](http://en.wikipedia.org/wiki/Spiny_softshell_turtle)
 
+
 ## David Ulrich ##
 
 Even the author is organized alphabetically.
 
 * [mountain goat](/static/img/self-goat-totem.jpg) - posing as my animal totem, the mountain goat
+
 
 ## Ice Flowers ##
 
@@ -27,11 +29,13 @@ Commonly called [ice flowers](http://my.ilstu.edu/~jrcarter/ice/flowers/), these
 * [icy beauty](/static/img/ice-flower-extravagant.jpg) - some were small, others large and elegant
 * [transience](/static/img/ice-flower-sunbeam.jpg) - a fleeting moment in the sun
 
+
 ## Indoors ##
 
 * [candle depths](/static/img/candle-depths.jpg) - a column of molten wax formed around the wick, creating a visual gradient
 * [houseplants](/static/img/well-travelled-plants.jpg) - these are some well-travelled houseplants, with over 2000 miles under their stems
 * [sourdough bread](/static/img/sourdough-loaf-1.jpg) - the first loaf to come out of my homegrown sourdough starter experiment
+
 
 ## Lakescapes ##
 
@@ -45,16 +49,19 @@ J Percy Priest Lake offers many recreation opportunities, including swimming, st
 * [sunset](/static/img/sunset-over-percy-priest.jpg) - looking west from the swimming spot; be safe, don't look at the sun!
 * [swimmer's view to the north](/static/img/swimming-cove.jpg) - looking north from the swimming spot
 
+
 ## Lightning ##
 
 * [July 27, part 1](/static/img/july-27-lightning-1.jpg) - trying to capture a dramatic storm, part 1
 * [July 27, part 2](/static/img/july-27-lightning-2.jpg) - trying to capture a dramatic storm, part 2
 * [July 27, part 3](/static/img/july-27-lightning-3.jpg) - trying to capture a dramatic storm, part 3
 
+
 ## Moon ##
 
 * [backlit clouds](/static/img/moon-clouds.jpg) - the photo doesn't truly capture the moon backlighting an entire sky full of clouds
 * [moonlit tree](/static/img/cloud-moon.jpg) - a shadowy autumn tree provides perspective
+
 
 ## Mr. Tobes ##
 
@@ -64,9 +71,11 @@ He may only be my sister's tiny kitty, but he gets into all kinds of shenanigans
 * [deck cat](/static/img/deck-cat.jpg) - the rare and beautiful Tennessee Deck Cat
 * [drugs work](/static/img/catnip-works.jpg) - an inflammatory description of catnip
 
+
 ## Plants ##
 
 * [wild berries](/static/img/wild-berries.jpg) - growing underneath the back deck
+
 
 ## The Big Trip ##
 
@@ -95,7 +104,12 @@ Selected scenes from the cross-country trek, not quite in chronolgical order.
 
 * [stormy travels](/static/img/stormy-travels-hd.jpg) - The sky continued to look threatening in Indiana
 
+
 ## Vegetation ##
 
 * [creeper tree](/static/img/creeper-tree.jpg) - virginia creeper on an elm tree in the back yard
 
+
+## Water & Stone ##
+
+* [just a trickle](/static/img/just-a-trickle.jpg) - this stream flows pretty good after a big rain
