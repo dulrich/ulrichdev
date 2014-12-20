@@ -34,6 +34,16 @@ Lip balm screw-up tubes take around 5g of lotion, so I pour the bars I'm making,
 
 ** For lip balm, I prefer standard screw-up  [tubes](http://www.bulkapothecary.com/make-it/lip-balm/lip-balm-containers/empty-lip-balm-tubes.html). You will want a small funnel for filling.
 
+Improved Bar: combines the best features of previous experiments for an improved consistency.
+
+* 5 parts beeswax
+* 6 parts coconut oil
+* 3 parts shea butter
+* 3 parts cocoa butter
+* 2 parts jojoba and/or almond oil
+* 1 part arrowroot powder
+* essential oils as desired
+
 
 ## Deodorant ##
 
