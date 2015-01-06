@@ -28,6 +28,7 @@ Commonly called [ice flowers](http://my.ilstu.edu/~jrcarter/ice/flowers/), these
 * [flowers?](/static/img/ice-flower-top-view.jpg) - from the right angle it could be a flower
 * [icy beauty](/static/img/ice-flower-extravagant.jpg) - some were small, others large and elegant
 * [transience](/static/img/ice-flower-sunbeam.jpg) - a fleeting moment in the sun
+* [winter flower](/static/img/ice-flower-winter.jpg) - even the ice flowers are lessened in winter
 
 
 ## Indoors ##
@@ -48,6 +49,8 @@ J Percy Priest Lake offers many recreation opportunities, including swimming, st
 * [flaming orange](/static/img/lake-reeds-2.jpg) - late afternoon sun lends a burnished tone to the meadow
 * [sunset](/static/img/sunset-over-percy-priest.jpg) - looking west from the swimming spot; be safe, don't look at the sun!
 * [swimmer's view to the north](/static/img/swimming-cove.jpg) - looking north from the swimming spot
+* [icicle log](/static/img/lake-icicle-log.jpg) - it rained not too long before the cold front arrived
+* [icicle rock](/static/img/lake-icicle-rock.jpg) - the rocks were freezing over while the lake remained clear
 
 
 ## Lightning ##
