@@ -116,3 +116,4 @@ Selected scenes from the cross-country trek, not quite in chronolgical order.
 ## Water & Stone ##
 
 * [just a trickle](/static/img/just-a-trickle.jpg) - this stream flows pretty good after a big rain
+* [winter sun trees](/static/img/winter-sun-trees.jpg) - the trees block out what sun remains as ice-foam builds on the lake
