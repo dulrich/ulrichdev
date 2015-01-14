@@ -6,9 +6,11 @@ Grouped by Subject
 
 * [dead snake](/static/img/snake.jpg) - this poor dead [northern watersnake](http://www.tennsnakes.org/watersnake.htm) made me jump when I turned around from looking at black walnuts
 * [box turtle](/static/img/box-turtle.jpg) - looks like some kind of box turtle
+* [lonely feather](/static/img/lonely-feather.jpg) - the bird moved on, leaving this feather all alone
 * [mantis](/static/img/mantis.jpg) - technically a [Carolina mantis](http://en.wikipedia.org/wiki/Carolina_mantis)
 * [mantis](/static/img/mantis-green.jpg) - another mantis
 * [mud nests](/static/img/mud-nests.jpg) - possibly the nest of [auplopus spider wasps](http://bugeric.blogspot.com/2014/05/masters-of-mud-auplopus-spider-wasps.html), or a related wasp
+* [sneaky rabbit](/static/img/sneaky-rabbit.jpg) - he was invisible prior to moving
 * [turtle](/static/img/turtle.jpg) - probably an [eastern spiny softshell turtle](http://en.wikipedia.org/wiki/Spiny_softshell_turtle)
 
 
@@ -80,6 +82,14 @@ He may only be my sister's tiny kitty, but he gets into all kinds of shenanigans
 * [wild berries](/static/img/wild-berries.jpg) - growing underneath the back deck
 
 
+## Snow ##
+
+It falls like sifted sugar from the sky; if only it were so delicious.
+
+* [dusted bark](/static/img/snow-dusted-bark.jpg) - snow mellows the ridges and crevices of this fallen log
+* [wintry woods](/static/img/snow-dusted-log.jpg) - eastern red cedar provides a verdant contrast to the stark hues of winter
+
+
 ## The Big Trip ##
 
 Selected scenes from the cross-country trek, not quite in chronolgical order.
@@ -115,5 +125,6 @@ Selected scenes from the cross-country trek, not quite in chronolgical order.
 
 ## Water & Stone ##
 
+* [ice broken](/static/img/ice-broken.jpg) - the lake level dropped during the freeze; the shore was ice-broken
 * [just a trickle](/static/img/just-a-trickle.jpg) - this stream flows pretty good after a big rain
 * [winter sun trees](/static/img/winter-sun-trees.jpg) - the trees block out what sun remains as ice-foam builds on the lake
