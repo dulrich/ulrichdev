@@ -79,7 +79,14 @@ He may only be my sister's tiny kitty, but he gets into all kinds of shenanigans
 
 ## Plants ##
 
+* [crazy bark](/static/img/bark-crazy.jpg) - deeply flanged bark, a winged elm perhaps
+* [red](/static/img/bright-red.jpg) - brilliant red berries stand out in sleeping woods
 * [wild berries](/static/img/wild-berries.jpg) - growing underneath the back deck
+
+
+## Sky ##
+
+* [frozen sky](/static/img/frozen-sky-hd.jpg) - lake and sky, vacant and frozen
 
 
 ## Snow ##
