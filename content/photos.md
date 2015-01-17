@@ -21,6 +21,27 @@ Even the author is organized alphabetically.
 * [mountain goat](/static/img/self-goat-totem.jpg) - posing as my animal totem, the mountain goat
 
 
+## Deep Freeze ##
+
+Excerpted from a single long walk on a cold January afternoon, these photographs appear in chronolgical order.
+
+* [ice flower](/static/img/deep-freeze-flower.jpg) - depending on the weather they grow in different places
+* [dark light](/static/img/deep-freeze-1.jpg) - overly dramatic lighting looking SW
+* [ice serpents](/static/img/deep-freeze-2.jpg) - snakes of ice, slithering into the distance
+* [coated shore](/static/img/deep-freeze-3.jpg) - rocks are coated with a thin, clear ice, but only at the lake's edge
+* [icicles](/static/img/deep-freeze-4.jpg) - jumbled stone provides many overhangs
+* [mininsula](/static/img/deep-freeze-5.jpg) - what's the point?
+* [afternoon](/static/img/deep-freeze-6.jpg) - by mid afternoon the sun is already setting in the valleys
+* [delicate](/static/img/deep-freeze-7.jpg) - atop the flowing stream, movement and air play together
+* [hard edge](/static/img/deep-freeze-8.jpg) - the long, hard winter shadows harbor a chill
+* [shell ice](/static/img/deep-freeze-9.jpg) - where stream meets the lake, the ice resembles a turtle shell
+* [ice tree](/static/img/deep-freeze-10.jpg) - partially sunked trees attract extensive formations
+* [stumps](/static/img/deep-freeze-11.jpg) - three stumps protrude through sheet ice that covers an inlet
+* [patterns](/static/img/deep-freeze-12.jpg) - closer inspection yields no clues to the pattern's origin
+* [tracks](/static/img/deep-freeze-13.jpg) - or perhaps not a serpent but the tracks of wheels in the snow
+* [begendings](/static/img/deep-freeze-14.jpg) - like ice around a lake, our journey ends at its beginning
+
+
 ## Ice Flowers ##
 
 Commonly called [ice flowers](http://my.ilstu.edu/~jrcarter/ice/flowers/), these structures form under certain conditions around plant stems.
