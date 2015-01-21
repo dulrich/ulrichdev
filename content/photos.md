@@ -136,6 +136,7 @@ It falls like sifted sugar from the sky; if only it were so delicious.
 * [purple](/static/img/spring-purple-flower.jpg) - flush with the ground, the world is flush with life
 * [roiling tufts](/static/img/spring-rolling-tufts.jpg) - grassy tufts roil in the spring wind
 * [pastoral](/static/img/spring-unreal-cows.jpg) - contented, the herd hardly notices passers-by
+* [tomorrow](/static/img/spring-unreal-sunset.jpg) - yesterday looms, hungry to sweep these memories into the past
 
 
 ## Staycation ##
