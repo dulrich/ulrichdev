@@ -118,6 +118,26 @@ It falls like sifted sugar from the sky; if only it were so delicious.
 * [wintry woods](/static/img/snow-dusted-log.jpg) - eastern red cedar provides a verdant contrast to the stark hues of winter
 
 
+## Spring Road Trip ##
+
+> How better to lose a day,
+> than riding with family
+> through the wakening Spring?
+
+* [backroad](/static/img/spring-backroad.jpg) - empty roads become full with company
+* [sprig](/static/img/spring-berries.jpg) - strings of color dance through the forest
+* [emerging](/static/img/spring-emerges.jpg) - dormant life emerges from its lush bed of leaves
+* [carpet](/static/img/spring-flower-bed.jpg) - the forest rolls out its carpet in welcome 
+* [golden light](/static/img/spring-golden-light.jpg) - backlit, even tired old leaves hold a glow
+* [hay bales](/static/img/spring-hay-bales-hd.jpg) - shaggy bales watch as their yard blooms
+* [industry](/static/img/spring-industry.jpg) - across the river, industry chugs away
+* [painted meadow](/static/img/spring-painted-meadow.jpg) - blurred by speed, dry stalks suggest art
+* [overflow](/static/img/spring-pond-overflow.jpg) - stillness and motion, forever separate - yet intertwined
+* [purple](/static/img/spring-purple-flower.jpg) - flush with the ground, the world is flush with life
+* [roiling tufts](/static/img/spring-rolling-tufts.jpg) - grassy tufts roil in the spring wind
+* [pastoral](/static/img/spring-unreal-cows.jpg) - contented, the herd hardly notices passers-by
+
+
 ## Staycation ##
 
 Random days of 67 degrees and sunshine in the middle of January make that tropical vacation harder to justify.
