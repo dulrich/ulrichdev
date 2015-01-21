@@ -118,6 +118,23 @@ It falls like sifted sugar from the sky; if only it were so delicious.
 * [wintry woods](/static/img/snow-dusted-log.jpg) - eastern red cedar provides a verdant contrast to the stark hues of winter
 
 
+## Staycation ##
+
+Random days of 67 degrees and sunshine in the middle of January make that tropical vacation harder to justify.
+
+* [bird launch](/static/img/sunny-bird-launch-hd.jpg) - no boats around, but some birds were using the launch area
+* [sentinel](/static/img/sunny-cliff-tree.jpg) - clinging to rock, the sentinel tree awaits the lake's return to summer levels
+* [shadows](/static/img/sunny-forest-rays.jpg) - afternoon light imagines a second forest
+* [fossils](/static/img/sunny-fossil-pattern.jpg) - ancient shells remind of time's vastness
+* [divided](/static/img/sunny-leafy-log.jpg) - only a small log stands between leaves and more leaves
+* [marching](/static/img/sunny-marching-spits.jpg) - this line of rocky spits marches off around the point
+* [sailboat](/static/img/sunny-sailboat.jpg) - sunny day, slightest breeze, silent boat
+* [shallows](/static/img/sunny-shallow-pattern.jpg) - sunlight and rocks play in the shallows
+* [stone river](/static/img/sunny-stone-river.jpg) - a small river of stone flows into the lake
+* [golden](/static/img/sunny-unreal-stump.jpg) - golden grass and tired stump
+* [tiny vine](/static/img/sunny-vine-rock.jpg) - delicate vines usually escape notice on the forest floor, but not today
+
+
 ## The Big Trip ##
 
 Selected scenes from the cross-country trek, not quite in chronolgical order.
