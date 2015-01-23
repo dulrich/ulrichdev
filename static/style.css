@@ -90,7 +90,6 @@ code,pre {
 	font-family: courier-new,monospace;
 	margin: 0.1em;
 	padding: 0.1em 0.2em;
-	size: 0.5em;
 }
 
 code {
@@ -170,7 +169,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-	font-size: 125%;
+	font-size: 1.25em;
 	margin: 0 0 1em 0;
 }
 
@@ -181,7 +180,7 @@ h2 {
 		#fff 2em
 	);
 	border-top-left-radius: 0.5em;
-	font-size: 125%;
+	font-size: 1.25em;
 	margin: 1em 0 0.5em 0;
 	padding: 0.5em 0 0.5em 0.5em;
 }
@@ -192,7 +191,7 @@ h3,h4,h5 {
 
 h6 {
 	color: #fff;
-	font-size: 200%;
+	font-size: 2em;
 	margin: 0.5em 0;
 }
 
