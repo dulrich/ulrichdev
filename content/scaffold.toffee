@@ -14,7 +14,7 @@
 	<div class="body-wrapper">
 		<div class="header bordered">
 			<ul class="menu-list">
-				<li><h6>Ulrich<span class="dark">Dev</span></h6></li>
+				<li><h6 class="blue">Ulrich<span class="dark">Dev</span></h6></li>
 				<li><a href="/">Home</a></li>
 				<li><a href="/archive">Archive</a></li>
 				<li><a href="/projects">Projects</a></li>

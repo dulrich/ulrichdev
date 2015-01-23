@@ -72,10 +72,10 @@ table{
 \*------------------------------------*/
 /* do we really need styles? */
 a {
-	color: #00f;
+	color: #00c;
 }
 a:visited {
-	color: #f0f;
+	color: #c0c;
 }
 
 body {
@@ -86,7 +86,7 @@ body {
 
 code,pre {
 	border: 1px solid #ccc;
-	border-radius: 0.4em;
+	border-radius: 0.3em;
 	font-family: courier-new,monospace;
 	margin: 0.1em;
 	padding: 0.1em 0.2em;
@@ -95,15 +95,22 @@ code,pre {
 
 code {
 	display: inline-block;
-	background-color: #ddd;
 }
 
 pre {
 	padding: 0.5em;
 }
 
+pre code {
+	border: none;
+}
+
 div.blog-roll {
 	
+}
+
+.blue {
+	color: #00c;
 }
 
 .body-wrapper {
@@ -112,16 +119,15 @@ div.blog-roll {
 }
 
 .bordered {
-	background-color: #ccc;
-	border: 1px solid #666;
-	border-radius: 10px;
+	background: linear-gradient(
+		176deg,
+		#ccc,
+		#fff 4em
+	);
+	border: 1px solid #ccc;
+	border-radius: 1em;
 	margin-bottom: 1em;
 	padding: 1em;
-}
-
-.bordered code,.bordered pre,pre code {
-	background-color: #fff;
-	border: none;
 }
 
 .center {
@@ -169,9 +175,15 @@ h1 {
 }
 
 h2 {
-	border-top: 1px solid #000;
+	background: linear-gradient(
+		178deg,
+		#ccc,
+		#fff 2em
+	);
+	border-top-left-radius: 0.5em;
 	font-size: 125%;
-	padding-top: 0.5em;
+	margin: 1em 0 0.5em 0;
+	padding: 0.5em 0 0.5em 0.5em;
 }
 
 h3,h4,h5 {
