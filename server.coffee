@@ -34,7 +34,7 @@ cfg = {
 }
 
 rdr.heading = (text,level) ->
-	return "<h#{level}>&gt; #{text}</h#{level}>"
+	return "<h#{level}>&raquo; #{text}</h#{level}>"
 
 mkd_opt = {
 	breaks: false

@@ -1,6 +1,6 @@
 {#
 	for post in posts {:
-		<div class="blog-roll">
+		<div class="blog-roll bordered">
 			#{print post.content}
 			<p>(direct link: <a href="/#{post.path}">#{post.title}</a>)</p>
 		</div>

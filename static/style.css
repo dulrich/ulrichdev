@@ -72,24 +72,30 @@ table{
 \*------------------------------------*/
 /* do we really need styles? */
 a {
-	color: #0ff
+	color: #00f;
 }
 a:visited {
 	color: #f0f;
 }
 
 body {
-	background-color: #666;
-	color: #aaa;
-	font-family: courier-new,monospace
+	background-color: #fff;
+	color: #000;
+	font-family: sans-serif;
 }
 
 code,pre {
-	background-color: #006;
+	border: 1px solid #ccc;
+	border-radius: 0.4em;
+	font-family: courier-new,monospace;
+	margin: 0.1em;
+	padding: 0.1em 0.2em;
+	size: 0.5em;
 }
 
 code {
 	display: inline-block;
+	background-color: #ddd;
 }
 
 pre {
@@ -97,14 +103,25 @@ pre {
 }
 
 div.blog-roll {
-	border-top: 1px solid #ccc;
+	
 }
 
 .body-wrapper {
-	background-color: #000;
 	max-width: 1024px;
 	margin: 0 auto;
-	padding: 0 3em 1em 3em;
+}
+
+.bordered {
+	background-color: #ccc;
+	border: 1px solid #666;
+	border-radius: 10px;
+	margin-bottom: 1em;
+	padding: 1em;
+}
+
+.bordered code,.bordered pre,pre code {
+	background-color: #fff;
+	border: none;
 }
 
 .center {
@@ -115,8 +132,16 @@ div.blog-roll {
 	min-height: 500px;
 }
 
+.dark {
+	color: #333;
+}
+
+.footer {
+	
+}
+
 .header {
-	padding-top: 1em;
+	margin-top: 1em;
 }
 
 .menu-list {
@@ -125,30 +150,26 @@ div.blog-roll {
 
 .menu-list li {
 	display: inline-block;
-	margin: 1em 1.75em 0 1.75em;
-}
-
-.quiet {
-	color: #ccc;
+	margin: 0 1.75em 0 1.75em;
 }
 
 .section {
-	margin-top: 1em;
-	border-top: 1px solid #ccc;
+	margin-bottom: 1em;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	color: #ccc;
+	color: #000;
 	font-weight: bold;
 	margin: 1em 0;
 }
 
 h1 {
 	font-size: 125%;
+	margin: 0 0 1em 0;
 }
 
 h2 {
-	border-top: 1px solid #ccc;
+	border-top: 1px solid #000;
 	font-size: 125%;
 	padding-top: 0.5em;
 }
@@ -158,13 +179,13 @@ h3,h4,h5 {
 }
 
 h6 {
-	color: white;
+	color: #fff;
 	font-size: 200%;
 	margin: 0.5em 0;
 }
 
 ol,ul {
-	list-style: square;
+/*	list-style: square; */
 }
 
 ol>li,ul>li {
