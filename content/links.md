@@ -67,6 +67,8 @@ Contains links to many other sets of koans; many, but not all of those are also 
 The best references for the best technologies.
 
 * [Coffee Script](http://coffeescript.org/): **Compiles to JS, for programmers too lazy to type ; and {.**
+* [LcodeTHW](http://learncodethehardway.org/): **Learn Code the Hard Way**
+Tutorial series on C, Python, Regex, Ruby, SQL, and soon a meta-tutorial on writing language tutorials.
 * [Node.js](http://nodejs.org/): **_The_ way to build modern web apps.**
 
 
