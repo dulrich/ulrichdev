@@ -65,6 +65,9 @@ Commonly called [ice flowers](http://my.ilstu.edu/~jrcarter/ice/flowers/), these
 
 J Percy Priest Lake offers many recreation opportunities, including swimming, strolls in the woods, and photo ops.
 
+* [broken cloud](/static/img/dramatic-rays.jpg) - sky spills through shattered clouds
+* [far shore](/static/img/dramatic-far-shore.jpg) - bright sunlight sparkles, belying the season
+* [glowing reeds](/static/img/dramatic-golden-reeds.jpg) - green and gold, whose colors are those?
 * [golden glow](/static/img/criminal-sunset-filter-1.jpg) - the burnished end to a crisp fall day
 * [reflecting](/static/img/criminal-sunset-filter-2.jpg) - sunset is the time for reflecting on the day
 * [contrast](/static/img/criminal-sunset-filter-3.jpg) - as the lake recedes to its winter pool, the sun likewise sinks into the west
