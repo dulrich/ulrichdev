@@ -19,7 +19,7 @@ Grouped by Subject
 Even the author is organized alphabetically.
 
 * [mountain goat](/static/img/self-goat-totem.jpg) - posing as my animal totem, the mountain goat
-* [](/static/img/wa-shadow-man.jpg) - 
+* [shadow man](/static/img/wa-shadow-man.jpg) - is this reality is the projection of another?
 
 
 ## Deep Freeze ##
@@ -204,7 +204,7 @@ Selected scenes from the cross-country trek, not quite in chronolgical order.
 
 * [bush, tree](/static/img/wa-bush-tree.jpg) - not front- nor back-, the forestground dominates
 * [wreath](/static/img/wa-defying-gravity.jpg) - this wicked wreath, it's defying gravity
-* [heather](/static/img/wa-heather.jpg) - lost in the colorful outbreak, it seems endless
+* [heather](/static/img/wa-heather.jpg) - carried away by color, it seems endless
 * [hummingbird](/static/img/wa-hummingbird.jpg) - he rests, but only for a moment, then the moment's gone
 * [mantle of light](/static/img/wa-mantle-of-light.jpg) - the eternal battle of darkness and light plays across a humble wall
 * [moss flames](/static/img/wa-moss-flames.jpg) - south of the border, would they be más flames?
