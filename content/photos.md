@@ -212,6 +212,6 @@ Selected scenes from the cross-country trek, not quite in chronolgical order.
 * [color drama](/static/img/wa-purple-and-white.jpg) - flamboyant colors offset stately brick
 * [shadow rhodedendron](/static/img/wa-shadow-rhodedendron.jpg) - shades of life
 * [spring emerges](/static/img/wa-spring-emerges.jpg) - vibrant and vigorous, hyacinths emerge from hiding
-* [tree house](/static/img/wa-treehouse.jpg) - with a galvanized steel room, this home is ready for any weather
+* [tree house](/static/img/wa-treehouse.jpg) - galvanized steel roof above, this home is ready for any weather
 * [bird bath](/static/img/wa-water-and-temperature.jpg) - perhaps the fliers are waiting for their bath to warm up
 * [whipped cream](/static/img/wa-whipped-cream.jpg) - textures of milk and sugar
