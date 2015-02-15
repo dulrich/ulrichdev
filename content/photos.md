@@ -6,6 +6,7 @@ Grouped by Subject
 
 * [dead snake](/static/img/snake.jpg) - this poor dead [northern watersnake](http://www.tennsnakes.org/watersnake.htm) made me jump when I turned around from looking at black walnuts
 * [box turtle](/static/img/box-turtle.jpg) - looks like some kind of box turtle
+* [cold fox](/static/img/fox.jpg) - he was sleeping by the logs, but heard me coming to take a picture
 * [lonely feather](/static/img/lonely-feather.jpg) - the bird moved on, leaving this feather all alone
 * [mantis](/static/img/mantis.jpg) - technically a [Carolina mantis](http://en.wikipedia.org/wiki/Carolina_mantis)
 * [mantis](/static/img/mantis-green.jpg) - another mantis
