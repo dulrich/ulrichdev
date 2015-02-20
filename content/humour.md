@@ -1,4 +1,4 @@
-# Humour
+# Humour (it's funnier that way)
 
 Playing with language and construction results in many puns.
 Some of them, which may even be funny, are reproduced here.
