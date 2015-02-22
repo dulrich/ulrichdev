@@ -78,6 +78,9 @@ Providers that I use and recommend.
 
 * [Azure Standard](https://www.azurestandard.com/): **Bulk and Organic Food Delivery**
 Monthly delivery of bulk and organic foods at very competetive prices.
+* [Annual Credit Report](https://www.annualcreditreport.com): **Federally mandated free credit reports every 12 months**
+* [Credit Karma](https://www.creditkarma.com): **Your Credit Score Should Be Free - and Now It Is**
+See your TransUnion and Equifax scores, along with searchable card offers and estimated approval chances.
 * [Digital Ocean](https://www.digitalocean.com/): **Simple cloud hosting, built for developers.**
 * [namecheap](https://www.namecheap.com/): **Getting your site online is easier than you think.**
 Best domain name registrar. Opposed SOPA and PIPA from the beginning.
