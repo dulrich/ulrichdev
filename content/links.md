@@ -59,6 +59,7 @@ To program without contemplation is to journey through a vibrant rainforest, yet
 * [Culture and Empire](http://cultureandempire.com/): **Pieter Hintjens' Writings on the History and Future of the Net**
 * [Free Software Foundation](http://www.fsf.org/): **The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users.**
 * [The Gateless Gate](http://www.ibiblio.org/zen/cgi-bin/koan-index.pl)
+* [Language Humour](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html): **A Brief, Incomplete, and Mostly Wrong History of Programming Languages**
 * [Rootless Root](http://catb.org/esr/writings/unix-koans/introduction.html): **The UNIX Koans of Master Foo.**
 Contains links to many other sets of koans; many, but not all of those are also recommended.
 
