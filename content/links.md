@@ -57,6 +57,7 @@ Located in Oregon's Willamette Valley.
 To program without contemplation is to journey through a vibrant rainforest, yet see neither the trees nor their flowers.
 
 * [Culture and Empire](http://cultureandempire.com/): **Pieter Hintjens' Writings on the History and Future of the Net**
+* [Destroy All Software](https://www.destroyallsoftware.com/talks): **Screencasts for serious developers**
 * [Free Software Foundation](http://www.fsf.org/): **The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users.**
 * [The Gateless Gate](http://www.ibiblio.org/zen/cgi-bin/koan-index.pl)
 * [Language Humour](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html): **A Brief, Incomplete, and Mostly Wrong History of Programming Languages**
