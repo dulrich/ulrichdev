@@ -73,6 +73,8 @@ The best references for the best technologies.
 * [LcodeTHW](http://learncodethehardway.org/): **Learn Code the Hard Way**
 Tutorial series on C, Python, Regex, Ruby, SQL, and soon a meta-tutorial on writing language tutorials.
 * [Node.js](http://nodejs.org/): **_The_ way to build modern web apps.**
+* [Suckless Tools](http://suckless.org/philosophy): **software that sucks less**
+Home of dwm, dmenu and other quality software with a focus on simplicity, clarity, and frugality.
 
 
 ## Services ##
