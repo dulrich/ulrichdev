@@ -11,6 +11,7 @@ This mount setup caused strange errors "failed to map segment from shared object
 To resolve, `/dev/sda1` should be explicitly mounted in `/etc/fstab` with options that grant `exec`.
 [reference](http://www.quakelive.com/forum/showthread.php?4208-LINUX-failed-to-map-segment-from-shared-object-Operation-not-permitted)
 
-
-
+Using `i3wm`, create `~/.xinitrc` with the content `exec i3`. To enter the env,
+just enter crosh (`Alt-t`), enter bash `shell`, go into your chroot,
+`sudo enter-chroot`, and finally run `xinit` to bring up the `i3` env.
 
