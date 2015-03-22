@@ -59,6 +59,7 @@ To program without contemplation is to journey through a vibrant rainforest, yet
 * [Culture and Empire](http://cultureandempire.com/): **Pieter Hintjens' Writings on the History and Future of the Net**
 * [Destroy All Software](https://www.destroyallsoftware.com/talks): **Screencasts for serious developers**
 * [Free Software Foundation](http://www.fsf.org/): **The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users.**
+* [Your Game Idea Is Too Big](http://yourgameideaistoobig.com): **Game dev cost estimator** How long would it take an entry level game developer to implement your game?
 * [The Gateless Gate](http://www.ibiblio.org/zen/cgi-bin/koan-index.pl)
 * [Language Humour](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html): **A Brief, Incomplete, and Mostly Wrong History of Programming Languages**
 * [Rootless Root](http://catb.org/esr/writings/unix-koans/introduction.html): **The UNIX Koans of Master Foo.**
