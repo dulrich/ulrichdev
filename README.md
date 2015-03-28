@@ -1,13 +1,16 @@
-# Minimal Coffeescript Server #
+# Minimal Coffeescript Server
 
 This server exists to power my personal website.
 It can be seen online at (http://www.ulrichdev.com).
-Secondary purposes include experimenting wtih Coffeescript, promises, and other modules.
+Secondary purposes include experimenting wtih Coffeescript, promises, and other 
+modules.
 
 Installation is the standard `npm install`.
-`coffee server.coffee` to run, or `coffee -c server.coffee && node server.js` or `make dev` to run the compiled version with file-watching.
+`coffee server.coffee` to run, or `coffee -c server.coffee && node server.js`
+or `make dev` to run the compiled version with file-watching.
 
-# License #
+
+# license
 
 Copyright (C) 2014 - 2015  David Ulrich (http://github.com/dulrich)
 
