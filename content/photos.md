@@ -131,7 +131,7 @@ A collection of Nashville flowers.
 * [pink stripes](/static/img/spring-15-pink.jpg) - a unique and brief splash of color
 * [purple](/static/img/spring-15-purple.jpg) - grape hyacinth in a nearby field
 * [redbud](/static/img/spring-15-redbud.jpg) - redbud prepares to bloom
-* [fly-by](/static/img/spring-15-redbird.jpg) - redbud in its full glory, avian at no extra charge
+* [fly-by](/static/img/spring-15-redbird.jpg) - redbud reaches skyward, trying to snare a passer-by
 * [white stars](/static/img/spring-15-white.jpg) - where did this come from? that's supposed to be a lawn
 * [wild yellow](/static/img/spring-15-yellow.jpg) - glowing against the lingering desolation of winter
 
