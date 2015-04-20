@@ -118,11 +118,6 @@ div.blog-roll {
 }
 
 .bordered {
-	background: linear-gradient(
-		176deg,
-		#ccc,
-		#fff 4em
-	);
 	border: 1px solid #ccc;
 	border-radius: 1em;
 	margin-bottom: 1em;
@@ -174,12 +169,7 @@ h1 {
 }
 
 h2 {
-	background: linear-gradient(
-		178deg,
-		#ccc,
-		#fff 2em
-	);
-	border-top-left-radius: 0.5em;
+	border-top: 1px solid #ccc;
 	font-size: 1.25em;
 	margin: 1em 0 0.5em 0;
 	padding: 0.5em 0 0.5em 0.5em;
