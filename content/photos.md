@@ -20,7 +20,7 @@ Grouped by Subject
 Even the author is organized alphabetically.
 
 * [mountain goat](/static/img/self-goat-totem.jpg) - posing as my animal totem, the mountain goat
-* [shadow man](/static/img/wa-shadow-man.jpg) - is this reality is the projection of another?
+* [shadow man](/static/img/wa-shadow-man.jpg) - is this reality merely the projection of another?
 
 
 ## Deep Freeze ##

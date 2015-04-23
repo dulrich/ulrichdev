@@ -33,8 +33,9 @@ cfg = {
 	port: 4747
 }
 
-rdr.heading = (text,level) ->
-	return "<h#{level}>&raquo; #{text}</h#{level}>"
+rdr.heading = (text,level,raw) ->
+	id = raw.toLowerCase().replace /[^\w]+/g, '-'
+	"<h#{level} id=\"#{id}\">&raquo; #{text}</h#{level}>"
 
 mkd_opt = {
 	breaks: false
