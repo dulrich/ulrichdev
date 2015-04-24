@@ -13,6 +13,7 @@ Grouped by Subject
 * [mud nests](/static/img/mud-nests.jpg) - possibly the nest of [auplopus spider wasps](http://bugeric.blogspot.com/2014/05/masters-of-mud-auplopus-spider-wasps.html), or a related wasp
 * [sneaky rabbit](/static/img/sneaky-rabbit.jpg) - he was invisible prior to moving
 * [turtle](/static/img/turtle.jpg) - probably an [eastern spiny softshell turtle](http://en.wikipedia.org/wiki/Spiny_softshell_turtle)
+* [bright spider](/static/img/shiny-spider.jpg) - the eye-catching orange markings on this spider were startling when my hand brushed the web
 
 
 ## David Ulrich ##
@@ -134,6 +135,8 @@ A collection of Nashville flowers.
 * [fly-by](/static/img/spring-15-redbird.jpg) - redbud reaches skyward, trying to snare a passer-by
 * [white stars](/static/img/spring-15-white.jpg) - where did this come from? that's supposed to be a lawn
 * [wild yellow](/static/img/spring-15-yellow.jpg) - glowing against the lingering desolation of winter
+* [surprise](/static/img/shiny-orange-surprise.jpg) - this pretty orange surprise appeared one day in the front planter
+* [cluster](/static/img/shiny-purple-blooms.jpg) - clusters of blooms coalesce into meta-blooms
 
 
 ## Spring Road Trip ##
