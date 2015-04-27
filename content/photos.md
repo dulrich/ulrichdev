@@ -243,3 +243,5 @@ Selected scenes from the cross-country trek, not quite in chronolgical order.
 * [tree house](/static/img/wa-treehouse.jpg) - galvanized steel roof above, this home is ready for any weather
 * [bird bath](/static/img/wa-water-and-temperature.jpg) - perhaps the fliers are waiting for their bath to warm up
 * [whipped cream](/static/img/wa-whipped-cream.jpg) - textures of milk and sugar
+
+###### END

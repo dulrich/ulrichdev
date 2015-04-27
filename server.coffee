@@ -33,7 +33,7 @@ cfg = {
 	port: 4747
 }
 
-rdr.block_state = 0
+rdr.block_state = false
 
 rdr.heading = (text,level,raw) ->
 	id = raw.toLowerCase().replace /[^\w]+/g, '-'
@@ -41,23 +41,13 @@ rdr.heading = (text,level,raw) ->
 	
 	if level == 2
 		head = "<div class=\"bordered\">#{head}"
-		head = "</div>#{head}" if rdr.block_state > 0
-		rdr.block_state = 1
-	else if level > 2
-		rdr.block_state++
-	else
-		rdr.block_state = 0
+		head = "</div>#{head}" if rdr.block_state
+		rdr.block_state = true
+	else if level == 6
+		head = if rdr.block_state then "</div>" else ""
+		rdr.block_state = false
 	
 	head
-
-rdr.list = (body,ordered) ->
-	type = if ordered then "ol" else "ul"
-	list = "<#{type}>\n#{body}</#{type}>\n"
-	
-	if rdr.block_state > 0 then rdr.block_state--
-	list = "#{list}</div>\n" if rdr.block_state == 0
-	
-	list
 
 mkd_opt = {
 	breaks: false
