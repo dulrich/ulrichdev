@@ -42,7 +42,7 @@ rdr.heading = (text,level,raw) ->
 	if level == 2
 		head = "<div class=\"bordered\">#{head}"
 		head = "</div>#{head}" if rdr.block_state > 0
-		rdr.block_state++
+		rdr.block_state = 1
 	else if level > 2
 		rdr.block_state++
 	else
@@ -56,6 +56,8 @@ rdr.list = (body,ordered) ->
 	
 	if rdr.block_state > 0 then rdr.block_state--
 	list = "#{list}</div>\n" if rdr.block_state == 0
+	
+	list
 
 mkd_opt = {
 	breaks: false
