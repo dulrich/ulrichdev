@@ -77,6 +77,8 @@ Tutorial series on C, Python, Regex, Ruby, SQL, and soon a meta-tutorial on writ
 * [Node.js](http://nodejs.org/): **_The_ way to build modern web apps.**
 * [Suckless Tools](http://suckless.org/philosophy): **software that sucks less**
 Home of dwm, dmenu and other quality software with a focus on simplicity, clarity, and frugality.
+* [tcpdump Guide](https://danielmiessler.com/study/tcpdump/): **A tcpdump Tutorial and Primer**
+Guide to packet monitoring, with examples.
 
 
 ## Services ##
