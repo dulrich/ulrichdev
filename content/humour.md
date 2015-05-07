@@ -8,7 +8,16 @@ Some of them, which may even be funny, are reproduced here.
 For those times when you know there was a hilarious Dilbert about X, but the
 searches dob't work.
 
+* [death spiral](http://dilbert.com/strip/1996-02-29)
 * [priorities](http://dilbert.com/strip/2015-02-14)
+
+
+## Best Practices
+
+Disclaimer: Although our Marketing Department makes every
+effort to follow industry Best Pratices, we cannot guarantee
+either the categorical or specific falsity of any particular
+promotional claim.
 
 
 ## Considerate Comedian
