@@ -35,4 +35,15 @@ A Mexican developer goes to a gamedev interview:
 Interviewer: Can you program?
 Developer: c, señor
 
+
+## Who is confused?
+
+A development company is being audited:
+Auditor: why did you not pay taxes on this one invoice?
+Manager: That was for a Tax Exempt Report.
+Auditor: You mean the report displays tax exempt sales?
+Manager: Yes, everything on the report is tax exempt so we didn't charge or pay tax on it.
+Auditor: ...
+
+
 ###### END
