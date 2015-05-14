@@ -8,6 +8,7 @@ Some of them, which may even be funny, are reproduced here.
 For those times when you know there was a hilarious Dilbert about X, but the
 searches dob't work.
 
+* [censorship](http://dilbert.com/strip/1990-12-22)
 * [death spiral](http://dilbert.com/strip/1996-02-29)
 * [priorities](http://dilbert.com/strip/2015-02-14)
 
