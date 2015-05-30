@@ -30,6 +30,15 @@ how long the show will be.
 "I don't want to pollute their minds, so I keep childrens' shows 8-bit clean."
 
 
+## Angry Orchard
+
+Two orchards were located next to each other, an olive orchard and a nut orchard.
+The olive trees were puzzled, as the nut trees always seemed angry.
+One day an olive leaned over and said,
+"Excuse me, but why do you look angry all the time?"
+"Because I'm a pissed-off-at-yo," the nut tree snarled back.
+
+
 ## Preferred Language
 
 A Mexican developer goes to a gamedev interview:
