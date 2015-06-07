@@ -160,7 +160,7 @@ A collection of Nashville flowers.
 * [tomorrow](/static/img/spring-unreal-sunset.jpg) - tomorrow looms, hungry to sweep these memories into the past
 
 
-## Springt Road Trip, v2
+## Spring Road Trip v2
 
 * [storm town](/static/img/rt2-storm-town.jpg) - towering weather sugests powers beyond the human
 * [sky drama](/static/img/rt2-plains-storm-hd.jpg) - light and darkness play across the skies
