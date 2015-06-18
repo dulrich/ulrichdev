@@ -65,6 +65,7 @@ To program without contemplation is to journey through a vibrant rainforest, yet
 * [Paul Graham on Software](http://paulgraham.com/articles.html): **Y Combinator Founder on Startups, software development**
 * [Rootless Root](http://catb.org/esr/writings/unix-koans/introduction.html): **The UNIX Koans of Master Foo.**
 Contains links to many other sets of koans; many, but not all of those are also recommended.
+* [Parable of Two Programmers](http://www.csd.uwo.ca/~magi/personal/humour/Computer_Audience/The%20Parable%20of%20the%20Two%20Programmers.html): **An Old Story**
 
 
 ## Programming, Technical ##
