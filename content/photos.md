@@ -94,6 +94,8 @@ J Percy Priest Lake offers many recreation opportunities, including swimming, st
 
 * [backlit clouds](/static/img/moon-clouds.jpg) - the photo doesn't truly capture the moon backlighting an entire sky full of clouds
 * [moonlit tree](/static/img/cloud-moon.jpg) - a shadowy autumn tree provides perspective
+* [tropical night](/static/img/moonlight-horizontal-hd.jpg) - palm surveys a warm clear night
+* [city sleeps](/static/img/moonlight-vertical.jgp) - two planets aid the moon as it watches over the sleeping city
 
 
 ## Mr. Tobes ##
@@ -251,5 +253,13 @@ Selected scenes from the cross-country trek, not quite in chronolgical order.
 * [tree house](/static/img/wa-treehouse.jpg) - galvanized steel roof above, this home is ready for any weather
 * [bird bath](/static/img/wa-water-and-temperature.jpg) - perhaps the fliers are waiting for their bath to warm up
 * [whipped cream](/static/img/wa-whipped-cream.jpg) - textures of milk and sugar
+
+
+## Washington, Summer 2015 ##
+
+* [easy way down](/static/img/hike-waterfall.jpg) - water takes the easy way down the hill as humans trudge up
+* [gap](/static/img/hike-clouds.jpg) - clouds rush in to fill a gap in the mountains
+* [full](/static/img/hike-widescreen.jpg) - filling the entire valley, lake talapus is an immersive experience
+
 
 ###### END
