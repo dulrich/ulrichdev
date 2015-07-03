@@ -95,7 +95,7 @@ J Percy Priest Lake offers many recreation opportunities, including swimming, st
 * [backlit clouds](/static/img/moon-clouds.jpg) - the photo doesn't truly capture the moon backlighting an entire sky full of clouds
 * [moonlit tree](/static/img/cloud-moon.jpg) - a shadowy autumn tree provides perspective
 * [tropical night](/static/img/moonlight-horizontal-hd.jpg) - palm surveys a warm clear night
-* [city sleeps](/static/img/moonlight-vertical.jgp) - two planets aid the moon as it watches over the sleeping city
+* [city sleeps](/static/img/moonlight-vertical.jpg) - two planets aid the moon as it watches over the sleeping city
 
 
 ## Mr. Tobes ##
