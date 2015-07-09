@@ -82,6 +82,13 @@ Home of dwm, dmenu and other quality software with a focus on simplicity, clarit
 Guide to packet monitoring, with examples.
 
 
+## Reading Materials ##
+
+Sources for significant amounts of interesting material.
+
+* [Project Gutenberg](https://www.gutenberg.org/): **Free eBooks by Project Gutenberg**
+
+
 ## Services ##
 
 Providers that I use and recommend.
