@@ -56,4 +56,10 @@ Manager: Yes, everything on the report is tax exempt so we didn't charge or pay 
 Auditor: ...
 
 
+## Nerds
+
+What do you call it when all the nerds in China's ruling party get together?
+...
+Commie-con
+
 ###### END
