@@ -45,6 +45,17 @@ Excerpted from a single long walk on a cold January afternoon, these photographs
 * [begendings](/static/img/deep-freeze-14.jpg) - like ice around a lake, our journey ends at its beginning
 
 
+## Coastal Hike ##
+
+Selected scenes from a hike along California's Central Coast.
+
+* [skyline](/static/img/hike-people-bird-cove.jpg) - two hikers and a bird overlook the town below
+* [bench](/static/img/hike-bench.jpg) - solitude made the spot peaceful; the sea-breeze made it cool
+* [lizard](/static/img/hike-lizard.jpg) - a lizard tried to stay warm despite the overcast
+* [washed up](/static/img/hike-washup.jpg) - down by the shore, cold pacific waters seem refreshing
+* [low clouds](/static/img/hike-lake-clouds.jpg) - heading home, clouds hung low over the hills
+
+
 ## Ice Flowers ##
 
 Commonly called [ice flowers](http://my.ilstu.edu/~jrcarter/ice/flowers/), these structures form under certain conditions around plant stems.
