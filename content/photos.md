@@ -52,8 +52,8 @@ Selected scenes from a hike along California's Central Coast.
 * [skyline](/static/img/hike-people-bird-cove.jpg) - two hikers and a bird overlook the town below
 * [bench](/static/img/hike-bench.jpg) - solitude made the spot peaceful; the sea-breeze made it cool
 * [lizard](/static/img/hike-lizard.jpg) - a lizard tried to stay warm despite the overcast
-* [washed up](/static/img/hike-washup.jpg) - down by the shore, cold pacific waters seem refreshing
-* [low clouds](/static/img/hike-lake-clouds.jpg) - heading home, clouds hung low over the hills
+* [washed up](/static/img/hike-beach-washup.jpg) - down by the shore, cold pacific waters seem refreshing
+* [low clouds](/static/img/hike-lake-cloud.jpg) - heading home, clouds hung low over the hills
 
 
 ## Ice Flowers ##
