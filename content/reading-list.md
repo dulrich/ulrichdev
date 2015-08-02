@@ -17,5 +17,6 @@ everywhere else.
 * Coders At Work, Peter Seibel
 * The Mythical Man Month, Frederick Brooks
 * The Psychology of Computer Programming, Gerald Weinberg
+* Talking with Tech Leads, Patrick Kua
 * You and Your Research, Richard Hamming [link](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf)
 

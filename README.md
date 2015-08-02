@@ -5,7 +5,7 @@ It can be seen online at (http://www.ulrichdev.com).
 Secondary purposes include experimenting wtih Coffeescript, promises, and other 
 modules.
 
-Installation is the standard `npm install`.
+Installation is the standard `npm install` plus `sudo npm install --global coffee-script` if you do not already have coffeescript.
 `coffee server.coffee` to run, or `coffee -c server.coffee && node server.js`
 or `make dev` to run the compiled version with file-watching.
 
