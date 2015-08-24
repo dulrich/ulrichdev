@@ -5,6 +5,8 @@ everywhere else.
 
 ## Fiction
 
+* A Black Comedy, nonjon
+* Harry Potter and the Methods of Rationality, Eliezer Yudkowsky
 * Hellstrom's Hive, Frank Herbert
 * The Dosadi Experiment, Frank Herbert
 * The Martian, Andy Weir

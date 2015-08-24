@@ -86,6 +86,8 @@ Guide to packet monitoring, with examples.
 
 Sources for significant amounts of interesting material.
 
+* [Fan Fiction](https://www.fanfiction.net/): *unleash yor imagination*
+Varied stories, both inspired by famous settings, and original.
 * [Project Gutenberg](https://www.gutenberg.org/): **Free eBooks by Project Gutenberg**
 
 
