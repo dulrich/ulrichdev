@@ -30,7 +30,7 @@ rdr = new mkd.Renderer
 tof = require 'toffee'
 
 cfg = {
-	port: 4747
+	port : 4747
 }
 
 rdr.block_state = false
@@ -50,15 +50,15 @@ rdr.heading = (text,level,raw) ->
 	head
 
 mkd_opt = {
-	breaks: false
-	gfm: true
-	highlight: (code) -> hlt.highlightAuto(code).value
-	pedantic: false
-	renderer: rdr
-	sanitize: true
-	smartLists: true
-	smartypants: false
-	tables: true
+	breaks      : false
+	gfm         : true
+	highlight   : (code) -> hlt.highlightAuto(code).value
+	pedantic    : false
+	renderer    : rdr
+	sanitize    : true
+	smartLists  : true
+	smartypants : false
+	tables      : true
 }
 
 log = console.log
@@ -71,9 +71,9 @@ blog_load = (load) ->
 			file?
 		.map (file) ->
 			out = {
-				date: file[1]
-				title: hmz.titleCase file[2].replace /-/g, ' '
-				path: [file[1],file[2]].join('-')
+				date  : file[1]
+				title : hmz.titleCase file[2].replace /-/g, ' '
+				path  : [file[1],file[2]].join('-')
 			}
 			
 			if !load then return out
@@ -107,11 +107,11 @@ make_title = (page) ->
 
 render_page = (res,body,page) ->
 	res.render 'scaffold', {
-		blog: body.blog ? ''
-		posts: body.posts ? []
-		content: body.content ? body
-		page: page
-		title: make_title page
+		blog    : body.blog ? ''
+		posts   : body.posts ? []
+		content : body.content ? body
+		page    : page
+		title   : make_title page
 	}
 
 
@@ -127,7 +127,6 @@ app.get 'trust proxy'
 
 app.use '/static', exp.static pth.join __dirname, 'static'
 
-# app.use '/content', page_renderer (toffee, requested bit in middle)
 app.use '/(:page)?', (req,res) ->
 	page = req.params.page ? 'home'
 	
@@ -137,16 +136,16 @@ app.use '/(:page)?', (req,res) ->
 				when 'home'
 					return blog_posts 0,3
 					.then (posts) -> {
-						content: body
-						posts: posts
-						blog: 'roll'
+						content : body
+						posts   : posts
+						blog    : 'roll'
 					}
 				when 'archive'
 					return blog_load false
 					.then (posts) -> {
-						content: body
-						posts: posts
-						blog: 'list'
+						content : body
+						posts   : posts
+						blog    : 'list'
 					}
 				else
 					body
@@ -155,3 +154,4 @@ app.use '/(:page)?', (req,res) ->
 
 app.listen cfg.port, () ->
 	log "Webserver started [express, port #{cfg.port}]"
+
