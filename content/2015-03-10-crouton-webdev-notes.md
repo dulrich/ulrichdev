@@ -1,4 +1,4 @@
-# 2015-03-10 -- ChromeOS/Crouton WebDev Notes
+# 2015-03-10 &ndash; ChromeOS/Crouton WebDev Notes
 
 [Crouton]() makes it quite easy to setup an ubuntu chroot within ChromeOS.
 Depending on what you're doing, various tweaks to the usual way of doing things may be needed.

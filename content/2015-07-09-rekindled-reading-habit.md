@@ -1,4 +1,4 @@
-# 2015-07-09 -- ReKindled Reading Habit
+# 2015-07-09 &ndash; ReKindled Reading Habit
 
 Even as I ordered the new Kindle paperwhite, I remained skeptical about the 
 entire idea of an eReader. The curmudgeon inside was certain that this device

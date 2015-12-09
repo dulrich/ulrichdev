@@ -1,8 +1,8 @@
-# Photos I've Taken #
+# Photos I've Taken
 
 Grouped by Subject
 
-## Critters ##
+## Critters
 
 * [dead snake](/static/img/snake.jpg) - this poor dead [northern watersnake](http://www.tennsnakes.org/watersnake.htm) made me jump when I turned around from looking at black walnuts
 * [box turtle](/static/img/box-turtle.jpg) - looks like some kind of box turtle
@@ -16,7 +16,7 @@ Grouped by Subject
 * [bright spider](/static/img/shiny-spider.jpg) - the eye-catching orange markings on this spider were startling when my hand brushed the web
 
 
-## David Ulrich ##
+## David Ulrich
 
 Even the author is organized alphabetically.
 
@@ -24,7 +24,7 @@ Even the author is organized alphabetically.
 * [shadow man](/static/img/wa-shadow-man.jpg) - is this reality merely the projection of another?
 
 
-## Deep Freeze ##
+## Deep Freeze
 
 Excerpted from a single long walk on a cold January afternoon, these photographs appear in chronolgical order.
 
@@ -45,7 +45,7 @@ Excerpted from a single long walk on a cold January afternoon, these photographs
 * [begendings](/static/img/deep-freeze-14.jpg) - like ice around a lake, our journey ends at its beginning
 
 
-## Coastal Hike ##
+## Coastal Hike
 
 Selected scenes from a hike along California's Central Coast.
 
@@ -56,7 +56,7 @@ Selected scenes from a hike along California's Central Coast.
 * [low clouds](/static/img/hike-lake-cloud.jpg) - heading home, clouds hung low over the hills
 
 
-## Ice Flowers ##
+## Ice Flowers
 
 Commonly called [ice flowers](http://my.ilstu.edu/~jrcarter/ice/flowers/), these structures form under certain conditions around plant stems.
 
@@ -68,7 +68,7 @@ Commonly called [ice flowers](http://my.ilstu.edu/~jrcarter/ice/flowers/), these
 * [winter flower](/static/img/ice-flower-winter.jpg) - even the ice flowers are lessened in winter
 
 
-## Indoors ##
+## Indoors
 
 * [candle depths](/static/img/candle-depths.jpg) - a column of molten wax formed around the wick, creating a visual gradient
 * [droplets](/static/img/rain-on-glass.jpg) - rain on glass, droplets joining an invisible plane
@@ -76,7 +76,7 @@ Commonly called [ice flowers](http://my.ilstu.edu/~jrcarter/ice/flowers/), these
 * [sourdough bread](/static/img/sourdough-loaf-1.jpg) - the first loaf to come out of my homegrown sourdough starter experiment
 
 
-## Lakescapes ##
+## Lakescapes
 
 J Percy Priest Lake offers many recreation opportunities, including swimming, strolls in the woods, and photo ops.
 
@@ -94,14 +94,14 @@ J Percy Priest Lake offers many recreation opportunities, including swimming, st
 * [icicle rock](/static/img/lake-icicle-rock.jpg) - the rocks were freezing over while the lake remained clear
 
 
-## Lightning ##
+## Lightning
 
 * [July 27, part 1](/static/img/july-27-lightning-1.jpg) - trying to capture a dramatic storm, part 1
 * [July 27, part 2](/static/img/july-27-lightning-2.jpg) - trying to capture a dramatic storm, part 2
 * [July 27, part 3](/static/img/july-27-lightning-3.jpg) - trying to capture a dramatic storm, part 3
 
 
-## Moon ##
+## Moon
 
 * [backlit clouds](/static/img/moon-clouds.jpg) - the photo doesn't truly capture the moon backlighting an entire sky full of clouds
 * [moonlit tree](/static/img/cloud-moon.jpg) - a shadowy autumn tree provides perspective
@@ -109,7 +109,7 @@ J Percy Priest Lake offers many recreation opportunities, including swimming, st
 * [city sleeps](/static/img/moonlight-vertical.jpg) - two planets aid the moon as it watches over the sleeping city
 
 
-## Mr. Tobes ##
+## Mr. Tobes
 
 He may only be my sister's tiny kitty, but he gets into all kinds of shenanigans.
 
@@ -118,19 +118,19 @@ He may only be my sister's tiny kitty, but he gets into all kinds of shenanigans
 * [drugs work](/static/img/catnip-works.jpg) - an inflammatory description of catnip
 
 
-## Plants ##
+## Plants
 
 * [crazy bark](/static/img/bark-crazy.jpg) - deeply flanged bark, a winged elm perhaps
 * [red](/static/img/bright-red.jpg) - brilliant red berries stand out in sleeping woods
 * [wild berries](/static/img/wild-berries.jpg) - growing underneath the back deck
 
 
-## Sky ##
+## Sky
 
 * [frozen sky](/static/img/frozen-sky-hd.jpg) - lake and sky, vacant and frozen
 
 
-## Snow ##
+## Snow
 
 It falls like sifted sugar from the sky; if only it were so delicious.
 
@@ -152,7 +152,7 @@ A collection of Nashville flowers.
 * [cluster](/static/img/shiny-purple-blooms.jpg) - clusters of blooms coalesce into meta-blooms
 
 
-## Spring Road Trip ##
+## Spring Road Trip
 
 > How better to lose a day,
 > than riding with family
@@ -193,7 +193,7 @@ Peaceful color for a mild spring evening.
 * [heartsick](/static/img/last-sunset.jpg) - last sunset at the lake
 
 
-## Staycation ##
+## Staycation
 
 Random days of 67 degrees and sunshine in the middle of January make that tropical vacation harder to justify.
 
@@ -210,15 +210,15 @@ Random days of 67 degrees and sunshine in the middle of January make that tropic
 * [tiny vine](/static/img/sunny-vine-rock.jpg) - delicate vines usually escape notice on the forest floor, but not today
 
 
-## The Big Trip ##
+## The Big Trip
 
 Selected scenes from the cross-country trek, not quite in chronolgical order.
 
-### Washington ###
+### Washington
 
 * [fence & sky](/static/img/wa-fence-sky.jpg) - between Moses Lake and Spokane
 
-### Montana ###
+### Montana
 
 * [big sky country](/static/img/montana-big-sky-country.jpg) - the sky was wide open
 * [dramatic clouds](/static/img/montana-clouds.jpg) - and often filled with dramatic clouds
@@ -227,29 +227,29 @@ Selected scenes from the cross-country trek, not quite in chronolgical order.
 * [stormy mountains](/static/img/montana-storm-clouds.jpg) - it looked cold and snowy up in the mountains
 * [trucker country](/static/img/montana-trucker-country.jpg) - lots of trucks moving goods across the nation
 
-### Wyoming ###
+### Wyoming
 
 * [they're everywhere](/static/img/wyoming-motorcycles-everywhere.jpg) - wait for the new Albert Hitchcock movie, "The Motorcycles"
 * [orange signs](/static/img/wyoming-orange-signs.jpg) - May is definitely construction time in the mountain west
 * [wild hills](/static/img/wyoming-wild-hills.jpg) - the whole country has not been built up just yet
 
-### Indiana ###
+### Indiana
 
 * [stormy travels](/static/img/stormy-travels-hd.jpg) - The sky continued to look threatening in Indiana
 
 
-## Vegetation ##
+## Vegetation
 
 * [creeper tree](/static/img/creeper-tree.jpg) - virginia creeper on an elm tree in the back yard
 
 
-## Water & Stone ##
+## Water & Stone
 
 * [ice broken](/static/img/ice-broken.jpg) - the lake level dropped during the freeze; the shore was ice-broken
 * [just a trickle](/static/img/just-a-trickle.jpg) - this stream flows pretty good after a big rain
 * [winter sun trees](/static/img/winter-sun-trees.jpg) - the trees block out what sun remains as ice-foam builds on the lake
 
-## Washington, Spring 2014 ##
+## Washington, Spring 2014
 
 * [bush, tree](/static/img/wa-bush-tree.jpg) - not front- nor back-, the forestground dominates
 * [wreath](/static/img/wa-defying-gravity.jpg) - this wicked wreath, it's defying gravity
@@ -266,11 +266,8 @@ Selected scenes from the cross-country trek, not quite in chronolgical order.
 * [whipped cream](/static/img/wa-whipped-cream.jpg) - textures of milk and sugar
 
 
-## Washington, Summer 2015 ##
+## Washington, Summer 2015
 
 * [easy way down](/static/img/hike-waterfall.jpg) - water takes the easy way down the hill as humans trudge up
 * [gap](/static/img/hike-clouds.jpg) - clouds rush in to fill a gap in the mountains
 * [full](/static/img/hike-widescreen.jpg) - filling the entire valley, lake talapus is an immersive experience
-
-
-###### END

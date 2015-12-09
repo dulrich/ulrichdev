@@ -1,9 +1,9 @@
-# Useful References, YMMV #
+# Useful References, YMMV
 
 Categories alphabetized, because I'm like that.
 
 
-## DIY ##
+## DIY
 
 Interesting projects, both high- and low-tech.
 
@@ -16,7 +16,7 @@ This is why your basement stays colder than the rest of the house.
 Ammonia evaporative cooling.
 
 
-## Linux ##
+## Linux
 
 The One True Operating System, you must convert. Unless you're a BSD fanatic, that's cool too (weird, but cool nonetheless).
 
@@ -28,7 +28,7 @@ The ultimate window manager, always does *the right thing&trade;*.
 Requires haskell runtimes, which is not always justifiable.
 
 
-## Minimalism ##
+## Minimalism
 
 While the 100-thing-challenge and other such extreme approaches are mostly a novelty, most of us can benefit from being more thoughtful about what we buy and own.
 Minimalism means removing everything which is not essential. It does not mean removing everything until you live in an empty monastery.
@@ -41,7 +41,7 @@ Space constraints drive design in the real world too, not just in software.
 * [Zen Habits](http://zenhabits.net/start/): Leo's style, focues, and outlook evolve over the huge archives.
 
 
-## Plants ##
+## Plants
 
 * [Vanderbilt Tree Guide](http://bioimages.vanderbilt.edu/tree-key/index.htm): **Illustrated key to common trees of middle Tennessee**
 This guide is very useful in differentiating the numerous species of oak and hickory that grow in middle Tennessee.
@@ -52,7 +52,7 @@ In the West, [Rhus Trilobata](http://plants.usda.gov/core/profile?symbol=RHTR) a
 Located in Oregon's Willamette Valley.
 
 
-## Programming, Philosophical ##
+## Programming, Philosophical
 
 To program without contemplation is to journey through a vibrant rainforest, yet see neither the trees nor their flowers.
 
@@ -68,7 +68,7 @@ Contains links to many other sets of koans; many, but not all of those are also 
 * [Parable of Two Programmers](http://www.csd.uwo.ca/~magi/personal/humour/Computer_Audience/The%20Parable%20of%20the%20Two%20Programmers.html): **An Old Story**
 
 
-## Programming, Technical ##
+## Programming, Technical
 
 The best references for the best technologies.
 
@@ -82,7 +82,7 @@ Home of dwm, dmenu and other quality software with a focus on simplicity, clarit
 Guide to packet monitoring, with examples.
 
 
-## Reading Materials ##
+## Reading Materials
 
 Sources for significant amounts of interesting material.
 
@@ -91,7 +91,7 @@ Varied stories, both inspired by famous settings, and original.
 * [Project Gutenberg](https://www.gutenberg.org/): **Free eBooks by Project Gutenberg**
 
 
-## Services ##
+## Services
 
 Providers that I use and recommend.
 
@@ -105,7 +105,7 @@ See your TransUnion and Equifax scores, along with searchable card offers and es
 Best domain name registrar. Opposed SOPA and PIPA from the beginning.
 
 
-## Webcomics ##
+## Webcomics
 
 Because they're funny.
 
@@ -113,5 +113,3 @@ Because they're funny.
 Just like real life; comes by email too.
 * [xkcd](http://www.xkcd.com): **A webcomic of romance, sarcasm, math, and language.**
 And all programmers must link to it.
-
-###### END

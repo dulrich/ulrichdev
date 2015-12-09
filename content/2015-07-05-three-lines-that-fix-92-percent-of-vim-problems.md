@@ -1,4 +1,4 @@
-# 2015-07-05 -- Three Lines That Fix 92% of Vim Problems
+# 2015-07-05 &ndash; Three Lines That Fix 92% of Vim Problems
 
 Most of my early vim problems (after the initial period of looking up hotkeys)
 stemmed from the poor (nonexistent) interaction between vim's internal copy

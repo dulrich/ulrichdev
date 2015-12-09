@@ -21,4 +21,3 @@ everywhere else.
 * The Psychology of Computer Programming, Gerald Weinberg
 * Talking with Tech Leads, Patrick Kua
 * You and Your Research, Richard Hamming [link](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf)
-

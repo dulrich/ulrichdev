@@ -2,28 +2,33 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	
 	<title>#{title}</title>
+	
+	<link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css" integrity="sha384-XXXXXXXX" crossorigin="anonymous">
 	<link rel="stylesheet" href="/static/style.css">
 	<link rel="stylesheet" href="/static/highlight.css">
-	<!--[if IE]>
-		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
 </head>
 
 <body>
-	<div class="body-wrapper">
-		<div class="header bordered">
-			<ul class="menu-list">
-				<li><h6 class="blue">Ulrich<span class="dark">Dev</span></h6></li>
-				<li><a href="/">Home</a></li>
-				<li><a href="/archive">Archive</a></li>
-				<li><a href="/projects">Projects</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/photos">Photos</a></li>
-				<li><a href="/links">Links</a></li>
-			</ul>
+		<div class="blog-masthead">
+			<div class="container">
+				<nav class="nav blog-nav">
+					<span class="nav-link ud-nav-logo">
+						<span style="color:#fff;">ulrich</span><span style="color:#00f;">dev</span>
+					</span>
+					<a class="nav-link" data-path="home" href="/">Home</a>
+					<a class="nav-link" data-path="archive" href="/archive">Archive</a>
+					<a class="nav-link" data-path="projects" href="/projects">Projects</a>
+					<a class="nav-link" data-path="about" href="/about">About</a>
+					<a class="nav-link" data-path="photos" href="/photos">Photos</a>
+					<a class="nav-link" data-path="links" href="/links">Links</a>
+				</nav>
+			</div>
 		</div>
-		<div class="section content">
+		<div class="container">
 			#{print content}
 			{#
 				switch blog
@@ -31,9 +36,23 @@
 					when "roll" then print partial "blog_roll.toffee" 
 			#}
 		</div>
-		<div class="footer bordered">
-			<p class="center">&copy; 2014 - 2015, David Ulrich -- view <a href="https://github.com/dulrich/ulrichdev">source</a> on github.</p>
-		</div>
-	</div>
+		<footer class="blog-footer">
+			<p>
+				&copy; 2014 - 2015, David Ulrich
+				&ndash; view <a href="https://github.com/dulrich/ulrichdev">source</a> on github.
+			</p>
+		</footer>
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script src="//cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/js/bootstrap.js" integrity="sha384-XXXXXXXX" crossorigin="anonymous"></script>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		var page_active;
+		
+		page_active = "#{page}";
+		
+		$(".nav-link[data-path='"+page_active+"']").addClass("active");
+	});
+	</script>
 </body>
 </html>

@@ -1,4 +1,4 @@
-# 2014-08-11 -- Setting Up Tab-Completion for Bash Aliases in Ubuntu 14.04LTS #
+# 2014-08-11 &ndash; Setting Up Tab-Completion for Bash Aliases in Ubuntu 14.04LTS
 
 Some guides have a function that automatically finds aliases, and sets maps them to the completion handlers of the programs they alias ([gist](https://gist.github.com/ckorn/4999102)).
 This sometimes works, for example if your aliases are just simple shortcuts:

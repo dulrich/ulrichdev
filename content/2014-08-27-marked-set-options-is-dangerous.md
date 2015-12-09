@@ -1,4 +1,4 @@
-# 2014-08-27 -- Marked: Relying on setOptions() is Dangerous #
+# 2014-08-27 &ndash; Marked: Relying on setOptions() is Dangerous
 
 Well, not necessarily dangerous.
 But as your project grows you may be left scratching your head.

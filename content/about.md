@@ -1,4 +1,4 @@
-# David Ulrich - Software Engineer (and some other things) #
+# David Ulrich &ndash; Software Engineer (and some other things)
 
 ![David Ulrich](/static/img/avatar.jpg)
 

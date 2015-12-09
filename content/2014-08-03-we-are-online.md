@@ -1,4 +1,4 @@
-# 2014-08-04 -- Site is Online, Now All it Needs is Everything #
+# 2014-08-04 &ndash; Site is Online, Now All it Needs is Everything
 
 What's done:
 * basic server: coffeescript, express, consolidate, the whole nine yards

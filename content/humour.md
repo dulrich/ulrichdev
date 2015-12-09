@@ -67,5 +67,3 @@ Commie-con
 
 Why did the onion farmer have to get special bags to sell his produce?
 The regular ones were leek-proof.
-
-###### END

@@ -1,7 +1,7 @@
-<ul class="blog-list">
+<ul class="ud-blog-list">
 {#
 	for post in posts {:
-		<li>#{post.date} -- <a href="/#{post.path}">#{post.title}</a></li>
+		<li>#{post.date} &ndash; <a href="/#{post.path}">#{post.title}</a></li>
 	:}
 #}
 </ul>

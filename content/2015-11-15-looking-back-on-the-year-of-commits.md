@@ -1,4 +1,4 @@
-# 2015-11-15 -- Looking Back on the "Year of Commits"
+# 2015-11-15 &ndash; Looking Back on the "Year of Commits"
 
 From August 25 2014 to August 24 2015, I completed a personal challenge, which
 was to push at least one commit to my github repositories every day. The results

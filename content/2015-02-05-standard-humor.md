@@ -1,4 +1,4 @@
-# 2015-02-05 - Standard Humor #
+# 2015-02-05 - Standard Humor
 
 Standards: you complain when others don't follow them and when you have to,
 for the same reason in both cases: it means extra work for you.

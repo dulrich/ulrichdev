@@ -1,8 +1,8 @@
-# DIY Soaps, Lotions, and other Personal Care Products #
+# DIY Soaps, Lotions, and other Personal Care Products
 
 Looking for an excuse to use my digital scale, and having dry/sensitive skin, I decided to try making my own.
 
-## Basic Ingredients ##
+## Basic Ingredients
 
 These basic ingredients are used in various recipes.
 Look for them in your pantry or online at [Bulk Apothecary](http://www.bulkapothecary.com) for the more specialized substances.
@@ -13,7 +13,7 @@ Look for them in your pantry or online at [Bulk Apothecary](http://www.bulkapoth
 * [shea butter](http://www.bulkapothecary.com/shea-butter.html)
 
 
-## Lotion Bars / Lip Balm ##
+## Lotion Bars / Lip Balm
 
 Basic bar: ratios by weight.
 A little bit bland by itself, this recipe works well with a few drops of essential oil per bar.
@@ -47,7 +47,7 @@ Improved Bar: combines the best features of previous experiments for an improved
 * essential oils as desired
 
 
-## Deodorant ##
+## Deodorant
 
 For standard [tubes](http://www.bulkapothecary.com/make-it/personal-care-products/containers/empty-deodorant-white-plastic-containers-bag-of-50.html) or [tubes](http://www.amazon.com/Deodorant-Containers-New-Empty-Pack/dp/B00CMF4CIM), net weight was 77g.
 The recipe used was the same as lotion, with the addition of arrowroot powder and baking soda.
@@ -59,6 +59,6 @@ The recipe used was the same as lotion, with the addition of arrowroot powder an
 * 1.5t baking soda
 
 
-## References ##
+## References
 
 * [Lotion Bars](http://wellnessmama.com/4770/lotion-bars/)

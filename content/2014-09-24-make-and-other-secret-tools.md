@@ -1,4 +1,4 @@
-# 2014-09-24 -- Make, and Other Secret C/C++ Development Tools #
+# 2014-09-24 &ndash; Make, and Other Secret C/C++ Development Tools
 
 Coming from a web developer background, the C/C++ build process can seem arcane and baffling.
 Often apparently important concepts are encountered only in passing comments on the [Stack Overflow](http://www.stackoverflow.com) answers to questions about obscure compiler or linker errors.
