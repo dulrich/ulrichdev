@@ -67,3 +67,10 @@ Commie-con
 
 Why did the onion farmer have to get special bags to sell his produce?
 The regular ones were leek-proof.
+
+
+## Pro Sledder
+
+Why was the professional sledder sent to an asylum?
+...
+He was psycho-luge-ically unstable.
