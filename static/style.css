@@ -177,6 +177,10 @@ h6, .h6 {
 	padding-left: 0;
 }
 
+.ud-container-body {
+	min-height: 75vh;
+}
+
 .ud-nav-logo {
 	font-size: 1.2rem;
 }
