@@ -198,3 +198,7 @@ ol,ul {
 pre {
 	border-left: 2px solid #e7e7e9;
 }
+
+td {
+	padding-right: 0.5em;
+}
