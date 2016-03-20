@@ -1,16 +1,16 @@
 # ulrichdev: A minimal web/blog server in coffeescript. Experimental.
 # Copyright (C) 2014 - 2015  David Ulrich (http://github.com/dulrich)
-# 
+#
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
 # published by the Free Software Foundation, either version 3 of the
 # License, or (at your option) any later version.
-# 
+#
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU Affero General Public License for more details.
-# 
+#
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
@@ -81,6 +81,45 @@ blog_posts = (start,count) ->
 		.slice start, count
 		.valueOf()
 
+month_index = {
+	january   :  1
+	february  :  2
+	march     :  3
+	april     :  4
+	may       :  5
+	june      :  6
+	july      :  7
+	august    :  8
+	september :  9
+	october   : 10
+	november  : 11
+	december  : 12
+}
+
+month_reduce = (mmap,file,i) ->
+	mmap[file.month] = mmap[file.month] || []
+	mmap[file.month].push file
+	mmap
+
+garden_images = () ->
+	fs.readdirB 'static/img'
+		.map (file) ->
+			file.match /^garden-([a-z]+)-(.+).jpg$/
+		.filter (file) ->
+			file?
+		.map (file) ->
+			{
+				month : file[1]
+				name  : file[0]
+				title : hmz.titleCase file[2].replace /-/g, ' '
+			}
+		.reduce month_reduce,{}
+		.then (mmap) ->
+			_(mmap).sortBy (list,month) ->
+				return month_index[month]
+			.valueOf()
+		.catch (err) -> []
+
 get_markdown = (page) ->
 	fs.readFileB pth.join 'content', "#{page}.md"
 		.then (file) -> mkd file.toString('utf8'), mkd_opt
@@ -91,7 +130,8 @@ make_title = (page) ->
 
 render_page = (res,body,page) ->
 	res.render 'scaffold', {
-		blog    : body.blog ? ''
+		extra   : body.extra ? ''
+		images  : body.images ? {}
 		posts   : body.posts ? []
 		content : body.content ? body
 		page    : page
@@ -122,19 +162,28 @@ app.use '/(:page)?', (req,res) ->
 					.then (posts) -> {
 						content : body
 						posts   : posts
-						blog    : 'roll'
+						extra   : 'blog_roll'
+					}
+				when 'garden'
+					return garden_images()
+					.then (images) -> {
+						content : body
+						images  : images
+						extra   : 'garden'
 					}
 				when 'archive'
 					return blog_load false
 					.then (posts) -> {
 						content : body
 						posts   : posts
-						blog    : 'list'
+						extra   : 'blog_list'
 					}
 				else
 					body
 		.then (body) -> render_page res, body, page
-		.catch (err) -> render_page res, not_found_404, page
+		.catch (err) ->
+			log err
+			render_page res, not_found_404, page
 
 app.listen cfg.port, () ->
 	log "Webserver started [express, port #{cfg.port}]"

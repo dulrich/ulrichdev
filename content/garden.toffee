@@ -1,0 +1,15 @@
+{#
+	for list in images {:
+	
+		<h2>#{list[0].month}</h2>
+		
+		<ul class="ud-image-list">
+		{#
+			for image in list {:
+				<li><a href="/static/img/#{image.name}">#{image.title}</a></li>
+			:}
+		#}
+		</ul>
+		
+	:}
+#}

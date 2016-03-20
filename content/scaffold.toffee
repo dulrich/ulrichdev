@@ -31,9 +31,10 @@
 		<div class="container ud-container-body">
 			#{print content}
 			{#
-				switch blog
-					when "list" then print partial "blog_list.toffee"
-					when "roll" then print partial "blog_roll.toffee" 
+				switch extra
+					when "blog_list" then print partial "blog_list.toffee"
+					when "blog_roll" then print partial "blog_roll.toffee"
+					when "garden"    then print partial "garden.toffee"
 			#}
 		</div>
 		<footer class="blog-footer">

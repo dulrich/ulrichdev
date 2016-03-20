@@ -1,26 +1,26 @@
 {
-	"name": "ulrichdev",
-	"version": "0.0.1",
-	"author": "David Ulrich <david@ulrichdev.com>",
-	"description": "A basic express/markdown webserver in coffeescript.",
-	"repository": {
-		"type": "git",
-		"url": "http://github.com/dulrich/ulrichdev.git"
-	},
-	"keywords": [
-		"webserver",
-		"markdown",
-		"coffeescript"
-	],
-	"dependencies" : {
-		"bluebird": "~2.2.2",
-		"consolidate": "~0.10.0",
-		"express": "~4.7.0",
-		"highlight.js": "~8.1.0",
-		"humanize-plus": "~1.4.2",
-		"lodash": "~2.4.0",
-		"marked": "~0.3.2",
-		"toffee": "~0.1.12"
-	},
-	"license": "MIT"
+  "name": "ulrichdev",
+  "version": "0.0.1",
+  "author": "David Ulrich <david@ulrichdev.com>",
+  "description": "A basic express/markdown webserver in coffeescript.",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dulrich/ulrichdev.git"
+  },
+  "keywords": [
+    "webserver",
+    "markdown",
+    "coffeescript"
+  ],
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "consolidate": "~0.10.0",
+    "express": "~4.7.0",
+    "highlight.js": "~8.1.0",
+    "humanize-plus": "~1.4.2",
+    "lodash": "~2.4.0",
+    "marked": "~0.3.2",
+    "toffee": "~0.1.12"
+  },
+  "license": "MIT"
 }
