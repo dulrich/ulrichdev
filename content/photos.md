@@ -107,6 +107,7 @@ J Percy Priest Lake offers many recreation opportunities, including swimming, st
 * [moonlit tree](/static/img/cloud-moon.jpg) - a shadowy autumn tree provides perspective
 * [tropical night](/static/img/moonlight-horizontal-hd.jpg) - palm surveys a warm clear night
 * [city sleeps](/static/img/moonlight-vertical.jpg) - two planets aid the moon as it watches over the sleeping city
+* [sunset moon](/static/img/rosy-sunset-moon.jpg) - hints of a rosy sunset linger as the full moon takes center stage
 
 
 ## Mr. Tobes
@@ -161,7 +162,7 @@ A collection of Nashville flowers.
 * [backroad](/static/img/spring-backroad.jpg) - empty roads become full with company
 * [sprig](/static/img/spring-berries.jpg) - strings of color dance through the forest
 * [emerging](/static/img/spring-emerges.jpg) - dormant life emerges from its lush bed of leaves
-* [carpet](/static/img/spring-flower-bed.jpg) - the forest rolls out its carpet in welcome 
+* [carpet](/static/img/spring-flower-bed.jpg) - the forest rolls out its carpet in welcome
 * [golden light](/static/img/spring-golden-light.jpg) - backlit, even tired old leaves hold a glow
 * [hay bales](/static/img/spring-hay-bales-hd.jpg) - shaggy bales watch as their yard blooms
 * [industry](/static/img/spring-industry.jpg) - across the river, industry chugs away
