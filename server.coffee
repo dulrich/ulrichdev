@@ -135,6 +135,7 @@ render_page = (res,body,page) ->
 		content : body.content ? body
 		page    : page
 		title   : make_title page
+		year    : new Date().getFullYear()
 	}
 
 

@@ -39,7 +39,7 @@
 		</div>
 		<footer class="blog-footer">
 			<p>
-				&copy; 2014 - 2015, David Ulrich
+				&copy; 2014 - #{year}, David Ulrich
 				&ndash; view <a href="https://github.com/dulrich/ulrichdev">source</a> on github.
 			</p>
 		</footer>
